@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/sw-yx/sw-yx/issues/21) in [sw-yx/sw-yx](https://github.com/sw-yx/sw-yx)
-2. ❗️ Opened issue [#6099](https://github.com/timburgan/timburgan/issues/6099) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#6024](https://github.com/timburgan/timburgan/issues/6024) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗️ Opened issue [#5971](https://github.com/timburgan/timburgan/issues/5971) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. ❗️ Opened issue [#5970](https://github.com/timburgan/timburgan/issues/5970) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. ❗️ Opened issue [#215](https://github.com/rahuldkjain/github-profile-readme-generator/issues/215) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+2. 🗣 Commented on [#21](https://github.com/sw-yx/sw-yx/issues/21) in [sw-yx/sw-yx](https://github.com/sw-yx/sw-yx)
+3. ❗️ Opened issue [#6099](https://github.com/timburgan/timburgan/issues/6099) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. ❗️ Opened issue [#6024](https://github.com/timburgan/timburgan/issues/6024) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. ❗️ Opened issue [#5971](https://github.com/timburgan/timburgan/issues/5971) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 ### Currently (and Future) Learning
