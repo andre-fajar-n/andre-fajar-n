@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### Currently (and Future) Learning
 <table>
   <tr>
