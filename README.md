@@ -33,6 +33,13 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
+```text
+JSX        3 hrs 52 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.73 % 
+Go         3 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Markdown   1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+YAML       1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+HTML       54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+```
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
