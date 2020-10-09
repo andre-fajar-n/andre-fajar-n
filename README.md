@@ -109,11 +109,11 @@ Go                       3 repos             ██░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#188](https://github.com/rossjrw/rossjrw/issues/188) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-2. 🗣 Commented on [#109](https://github.com/anmol098/waka-readme-stats/issues/109) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. ❗️ Opened issue [#109](https://github.com/anmol098/waka-readme-stats/issues/109) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. ❗️ Opened issue [#215](https://github.com/rahuldkjain/github-profile-readme-generator/issues/215) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-5. 🗣 Commented on [#21](https://github.com/sw-yx/sw-yx/issues/21) in [sw-yx/sw-yx](https://github.com/sw-yx/sw-yx)
+1. 🗣 Commented on [#215](https://github.com/rahuldkjain/github-profile-readme-generator/issues/215) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+2. ❗️ Opened issue [#188](https://github.com/rossjrw/rossjrw/issues/188) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+3. 🗣 Commented on [#109](https://github.com/anmol098/waka-readme-stats/issues/109) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. ❗️ Opened issue [#109](https://github.com/anmol098/waka-readme-stats/issues/109) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. ❗️ Opened issue [#215](https://github.com/rahuldkjain/github-profile-readme-generator/issues/215) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 ### Currently (and Future) Learning
