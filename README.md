@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-288-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-307-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 410 Contributions in the Year 2020
+> 🏆 412 Contributions in the Year 2020
  > 
 > 📦 276.2 kB Used in Github's Storage 
  > 
@@ -78,17 +78,17 @@ Sunday       100 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  32 hrs 51 mins      █████████████████████████   100.0%
+VS Code                  30 hrs 15 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shipment                 18 hrs 8 mins       █████████████░░░░░░░░░░░░   55.21% 
-Profile-Page             7 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   23.05% 
-account                  2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.12% 
-andre-fajar-n            2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
-Unknown Project          50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57%
+shipment                 19 hrs 15 mins      ████████████████░░░░░░░░░   63.68% 
+Profile-Page             4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
+account                  2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
+andre-fajar-n            2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.34% 
+Unknown Project          50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79%
 
 💻 Operating System: 
-Linux                    32 hrs 51 mins      █████████████████████████   100.0%
+Linux                    30 hrs 15 mins      █████████████████████████   100.0%
 
 ```
 
