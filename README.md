@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 ### Some Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fajar-n&langs_count=10&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![github's stats](https://github-readme-stats.vercel.app/api?username=andre-fajar-n&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github.com/andre-fajar-n/github-stats/blob/master/generated/overview.svg)](https://github.com/jstrieb/github-stats) [![](https://github.com/andre-fajar-n/github-stats/blob/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
