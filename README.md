@@ -33,19 +33,19 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-311-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-318-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 412 Contributions in the Year 2020
+> 🏆 413 Contributions in the Year 2020
  > 
 > 📦 276.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories
+> 📜 19 Public Repositories
  > 
 > 🔑 8 Private Repositories 
 
@@ -78,17 +78,17 @@ Sunday       100 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  26 hrs 45 mins      █████████████████████████   100.0%
+VS Code                  24 hrs 5 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shipment                 19 hrs 15 mins      ██████████████████░░░░░░░   71.97% 
-account                  2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
-Profile-Page             1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.33% 
-andre-fajar-n            1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
-Unknown Project          50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
+shipment                 19 hrs 15 mins      ████████████████████░░░░░   79.96% 
+account                  2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.71% 
+Profile-Page             1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.7% 
+Unknown Project          50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.5% 
+backups db algo          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
 
 💻 Operating System: 
-Linux                    26 hrs 45 mins      █████████████████████████   100.0%
+Linux                    24 hrs 5 mins       █████████████████████████   100.0%
 
 ```
 
