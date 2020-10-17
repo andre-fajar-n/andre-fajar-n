@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-356-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-358-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -79,17 +79,17 @@ Sunday       100 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  19 hrs 48 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 58 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Profile-Page             8 hrs 41 mins       ███████████░░░░░░░░░░░░░░   43.93% 
-shipment                 7 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.99% 
-account                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
-Unknown Project          52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
-backups db algo          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
+Profile-Page             8 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   43.3% 
+shipment                 6 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.46% 
+account                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+Unknown Project          1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.0% 
+backups db algo          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
 
 💻 Operating System: 
-Linux                    19 hrs 48 mins      █████████████████████████   100.0%
+Linux                    18 hrs 58 mins      █████████████████████████   100.0%
 
 ```
 
