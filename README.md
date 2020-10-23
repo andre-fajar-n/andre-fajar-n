@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
@@ -79,17 +79,17 @@ Sunday       101 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  13 hrs 26 mins      █████████████████████████   100.0%
+VS Code                  8 hrs 50 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Profile-Page             6 hrs 55 mins       █████████████░░░░░░░░░░░░   51.53% 
-account                  3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.77% 
-Unknown Project          1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
-shipment                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
-from-laptop-alta         26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29%
+account                  5 hrs 13 mins       ██████████████░░░░░░░░░░░   59.05% 
+Unknown Project          1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.8% 
+Profile-Page             1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+shipment                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.47% 
+embedded-electronics-syst13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64%
 
 💻 Operating System: 
-Linux                    13 hrs 26 mins      █████████████████████████   100.0%
+Linux                    8 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
