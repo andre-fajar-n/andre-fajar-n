@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I,m Andre Fajar Nugroho 👋 </h1>
+<h1 align="center">👋 Hi there, I'm Andre Fajar Nugroho 👋 </h1>
 
 <!--
 **andre-fajar-n/andre-fajar-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +10,7 @@
 Here are some ideas to get you started:
 -->
 
+- :indonesia: I'm from Indonesia :indonesia:
 - 🔭 I’m currently working on <a href="https://refactory.id/" target="blank"> <img src="https://refactory-id.s3.amazonaws.com/webassets-prod/public/assets/img/kits/Refactory-Logo001(black).png" width="auto" height="20"/> </a>
 - 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/andre-fajar-n/" target="blank">
@@ -28,19 +29,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love Marvel Cinematic Universe
 
 <details>
-  <summary><strong>Github Statistics</strong></summary>
+  <summary><strong>:chart_with_upwards_trend: Github Statistics</strong></summary>
   
   [![github's stats](https://github-readme-stats.vercel.app/api?username=andre-fajar-n&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![github's stats](https://github.com/andre-fajar-n/github-stats/blob/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
 </details>
   
 <details>
-  <summary><strong>Top Languages</strong></summary>
+  <summary><strong>:bar_chart: Top Languages</strong></summary>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fajar-n&langs_count=10&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![top languages](https://github.com/andre-fajar-n/github-stats/blob/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
 </details>
 
 <details>
-  <summary><strong>Wakatime Statistics</strong></summary>
+  <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
@@ -121,10 +122,8 @@ Go                       3 repos             ██░░░░░░░░░�
 
 </details>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
 <details>
-  <summary><strong>:zap: Recent Activity</strong></summary>
+  <summary><strong>:calendar: Recent Activity</strong></summary>
   
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#26](https://github.com/andre-fajar-n/Youtube-Clone/pull/26) in [andre-fajar-n/Youtube-Clone](https://github.com/andre-fajar-n/Youtube-Clone)
@@ -137,7 +136,7 @@ Go                       3 repos             ██░░░░░░░░░�
 </details>
 
 <details>
-  <summary><strong>Currently (and Future) Learning</strong></summary>
+  <summary><strong>:books: Currently (and Future) Learning</strong></summary>
   <table>
   <tr>
     <th>
@@ -225,3 +224,5 @@ Go                       3 repos             ██░░░░░░░░░�
   </tr>
 </table>
 </details>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
