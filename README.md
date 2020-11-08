@@ -27,11 +27,20 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Go, Computer Vision, and Machine Learning
 - ⚡ Fun fact: I love Marvel Cinematic Universe
 
-### Some Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fajar-n&langs_count=10&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![github's stats](https://github-readme-stats.vercel.app/api?username=andre-fajar-n&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github.com/andre-fajar-n/github-stats/blob/master/generated/overview.svg)](https://github.com/jstrieb/github-stats) [![](https://github.com/andre-fajar-n/github-stats/blob/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+<details>
+  <summary><strong>Github Statistics</strong></summary>
+  
+  [![github's stats](https://github-readme-stats.vercel.app/api?username=andre-fajar-n&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![github's stats](https://github.com/andre-fajar-n/github-stats/blob/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
+</details>
+  
+<details>
+  <summary><strong>Top Languages</strong></summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fajar-n&langs_count=10&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![top languages](https://github.com/andre-fajar-n/github-stats/blob/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
+</details>
+
+<details>
+  <summary><strong>Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
@@ -108,8 +117,16 @@ Go                       3 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+<details>
+  <summary><strong>:zap: Recent Activity</strong></summary>
+  
+  <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#26](https://github.com/andre-fajar-n/Youtube-Clone/pull/26) in [andre-fajar-n/Youtube-Clone](https://github.com/andre-fajar-n/Youtube-Clone)
 2. 🗣 Commented on [#215](https://github.com/rahuldkjain/github-profile-readme-generator/issues/215) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 3. ❗️ Opened issue [#188](https://github.com/rossjrw/rossjrw/issues/188) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
@@ -117,8 +134,11 @@ Go                       3 repos             ██░░░░░░░░░�
 5. ❗️ Opened issue [#109](https://github.com/anmol098/waka-readme-stats/issues/109) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
-### Currently (and Future) Learning
-<table>
+</details>
+
+<details>
+  <summary><strong>Currently (and Future) Learning</strong></summary>
+  <table>
   <tr>
     <th>
       Programming Language
@@ -204,3 +224,4 @@ Go                       3 repos             ██░░░░░░░░░�
     </td>
   </tr>
 </table>
+</details>
