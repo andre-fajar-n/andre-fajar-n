@@ -44,9 +44,9 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -89,17 +89,17 @@ Sunday       103 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  14 hrs 50 mins      █████████████████████████   100.0%
+VS Code                  23 hrs 20 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shipment                 6 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.77% 
-Profile-Page             6 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   41.53% 
-BackEnd-Ecommerce        1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.31% 
-BE-WA-Web-Clone          33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
-dispatch                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
+shipment                 13 hrs 22 mins      ██████████████░░░░░░░░░░░   57.31% 
+Profile-Page             6 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   26.4% 
+BackEnd-Ecommerce        1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.57% 
+shop                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
+BE-WA-Web-Clone          33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
 
 💻 Operating System: 
-Linux                    14 hrs 50 mins      █████████████████████████   100.0%
+Linux                    23 hrs 20 mins      █████████████████████████   100.0%
 
 ```
 
