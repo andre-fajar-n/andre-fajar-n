@@ -41,6 +41,12 @@ Here are some ideas to get you started:
 </details>
 
 <details>
+  <summary><strong>:spiral_calendar: Github Streak Stats</strong></summary>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andre-fajar-n)](https://github.com/DenverCoder1/github-readme-streak-stats)
+</details>
+
+<details>
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
