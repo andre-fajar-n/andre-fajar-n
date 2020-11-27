@@ -50,14 +50,12 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,148 Contributions in the Year 2020
- > 
 > 📦 277.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -95,17 +93,17 @@ Sunday       109 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  17 hrs 19 mins      █████████████████████████   100.0%
+VS Code                  15 hrs 46 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Profile-Page             7 hrs 40 mins       ███████████░░░░░░░░░░░░░░   44.27% 
-RefactoryCourse          5 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.8% 
-shipment                 3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61% 
-BackEnd-Ecommerce        16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
-Computer-Vision          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
+RefactoryCourse          6 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   43.2% 
+Profile-Page             5 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   35.35% 
+esg-intelligence-api     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
+shipment                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
+BackEnd-Ecommerce        16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
 
 💻 Operating System: 
-Linux                    17 hrs 19 mins      █████████████████████████   100.0%
+Linux                    15 hrs 46 mins      █████████████████████████   100.0%
 
 ```
 
