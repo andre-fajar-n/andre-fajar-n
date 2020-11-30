@@ -50,9 +50,9 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -93,17 +93,16 @@ Sunday       109 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  15 hrs 24 mins      █████████████████████████   100.0%
+VS Code                  13 hrs 3 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-RefactoryCourse          9 hrs 22 mins       ███████████████░░░░░░░░░░   60.76% 
-esg-intelligence-api     3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-Profile-Page             2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72% 
-Computer-Vision          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
-profile-summary-for-githu4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+RefactoryCourse          9 hrs 22 mins       ██████████████████░░░░░░░   71.77% 
+esg-intelligence-api     3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.23% 
+Profile-Page             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
+Computer-Vision          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
 
 💻 Operating System: 
-Linux                    15 hrs 24 mins      █████████████████████████   100.0%
+Linux                    13 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
