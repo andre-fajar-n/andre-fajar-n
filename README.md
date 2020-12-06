@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
@@ -62,9 +62,9 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories
+> 📜 19 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 8 Private Repositories  
 
 **I'm an Early 🐤** 
 
