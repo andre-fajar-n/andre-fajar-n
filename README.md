@@ -129,19 +129,6 @@ C++                      4 repos             ███░░░░░░░░�
 </details>
 
 <details>
-  <summary><strong>:calendar: Recent Activity</strong></summary>
-  
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/andre-fajar-n/Youtube-Clone/pull/26) in [andre-fajar-n/Youtube-Clone](https://github.com/andre-fajar-n/Youtube-Clone)
-2. 🗣 Commented on [#215](https://github.com/rahuldkjain/github-profile-readme-generator/issues/215) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-3. ❗️ Opened issue [#188](https://github.com/rossjrw/rossjrw/issues/188) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-4. 🗣 Commented on [#109](https://github.com/anmol098/waka-readme-stats/issues/109) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. ❗️ Opened issue [#109](https://github.com/anmol098/waka-readme-stats/issues/109) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary><strong>:books: Currently (and Future) Learning</strong></summary>
   <table>
   <tr>
