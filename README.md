@@ -50,13 +50,13 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243731%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,182 Contributions in the Year 2020
+> 🏆 1,186 Contributions in the Year 2020
  > 
 > 📦 279.1 kB Used in Github's Storage 
  > 
@@ -95,17 +95,17 @@ Sunday       111 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  20 hrs 8 mins       █████████████████████████   100.0%
+VS Code                  23 hrs 39 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-graphql                  5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.03% 
-shipment                 4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.94% 
-account                  4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.5% 
-Golang-GraphQL-MongoDB   3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
-Profile-Page             2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.25%
+Golang-GraphQL-MongoDB   6 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.96% 
+shipment                 6 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.49% 
+graphql                  5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   22.4% 
+account                  4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.41% 
+go-clean-arch            32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
 
 💻 Operating System: 
-Linux                    20 hrs 8 mins       █████████████████████████   100.0%
+Linux                    23 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
