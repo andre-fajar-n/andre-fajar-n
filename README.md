@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-599876%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-601412%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,191 Contributions in the Year 2020
+> 🏆 1,208 Contributions in the Year 2020
  > 
 > 📦 279.2 kB Used in Github's Storage 
  > 
@@ -95,15 +95,15 @@ Sunday       111 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  12 hrs 41 mins      █████████████████████████   100.0%
+VS Code                  7 hrs 12 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Golang-GraphQL-MongoDB   10 hrs 56 mins      █████████████████████░░░░   86.25% 
-shipment                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
-graphql                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.58%
+Golang-GraphQL-MongoDB   5 hrs 37 mins       ███████████████████░░░░░░   77.97% 
+shipment                 1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.19% 
+graphql                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.84%
 
 💻 Operating System: 
-Linux                    12 hrs 41 mins      █████████████████████████   100.0%
+Linux                    7 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
