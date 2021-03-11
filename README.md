@@ -28,6 +28,94 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Go, Computer Vision, and Machine Learning
 - ⚡ Fun fact: I love Marvel Cinematic Universe
 
+<summary><strong>:books: Currently (and Future) Learning</strong></summary>
+  <table>
+  <tr>
+    <th>
+      Programming Language
+    </th>
+    <th>
+      Backend
+    </th>
+    <th>
+      Frontend
+    </th>
+  </tr>
+  <tr>
+    <!-- PROGRAMMING LANGUAGE -->
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="python" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white" alt="javascript" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Golang-00ADD8?style=plastic&logo=go&logoColor=white" alt="go" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white" alt="c++" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white" alt="c" width="auto" height="30"/><br/>
+    </td>
+    <!-- BACKEND -->
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white" alt="django" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white" alt="flask" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/NodeJS-339933?style=plastic&logo=Node.js&logoColor=white" alt="nodejs" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Echo-00afd1?style=plastic&logo=go&logoColor=white" alt="echo" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Gin-0090d1?style=plastic&logo=go&logoColor=white" alt="gin" width="auto" height="30"/><br/>
+    </td>
+    <!-- FRONTEND -->
+    <td>
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="auto" height="40"/>
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="auto" height="40"/>
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="40"/>
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="auto" height="40"/>
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="auto" height="40"/>
+      <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" alt="less" width="auto" height="50"/>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>
+      Database
+    </th>
+    <th>
+      Others
+    </th>
+  </tr>
+  <tr>
+    <!-- DATABASE -->
+    <td>
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="auto" height="50"/>
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="auto" height="50"/>
+      <img src="https://devicon.dev/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="auto" height="40"/>
+      <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgre" width="auto" height="50"/>
+    </td>
+    <!-- OTHERS -->
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="40"/>
+      <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="aws" width="auto" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="auto" height="40"/>
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="auto" height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="auto" height="40"/>
+    </td>
+  </tr>
+</table>
+<table margin-left="auto", margin-right="auto">
+  <tr>
+    <th>
+      Hardware
+    </th>
+  </tr>
+  <tr>
+    <!-- HARDWARE -->
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png" alt="arduino" width="auto" height="50"/>
+      <img src="https://www.pngfind.com/pngs/m/19-198800_logo-raspberry-pi-icon-hd-png-download.png" alt="raspi" width="auto" height="50"/>
+      <img src="https://beagleboard.org/static/uploads/BeagleBoardCompliantLowRes.png" alt="beaglebone-black" width="auto" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv" width="auto" height="50"/> 
+      <img src="https://image.flaticon.com/icons/svg/2752/2752843.svg" alt="microcontroller" width="auto" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1200px-KiCad-Logo.svg.png" alt="kicad" width="auto" height="30"/>
+      <img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png" alt="proteus" width="auto" height="30"/>
+    </td>
+  </tr>
+</table>
+
 <details>
   <summary><strong>:chart_with_upwards_trend: Github Statistics</strong></summary>
   
@@ -127,96 +215,6 @@ C++                      4 repos             ███░░░░░░░░�
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
-
-<details>
-  <summary><strong>:books: Currently (and Future) Learning</strong></summary>
-  <table>
-  <tr>
-    <th>
-      Programming Language
-    </th>
-    <th>
-      Backend
-    </th>
-    <th>
-      Frontend
-    </th>
-  </tr>
-  <tr>
-    <!-- PROGRAMMING LANGUAGE -->
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="python" width="auto" height="30"/><br/>
-      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white" alt="javascript" width="auto" height="30"/><br/>
-      <img src="https://img.shields.io/badge/Golang-00ADD8?style=plastic&logo=go&logoColor=white" alt="go" width="auto" height="30"/><br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white" alt="c++" width="auto" height="30"/><br/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white" alt="c" width="auto" height="30"/><br/>
-    </td>
-    <!-- BACKEND -->
-    <td>
-      <img src="https://img.icons8.com/color/96/000000/django.png" alt="django" width="auto" height="60"/>
-      <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs" width="auto" height="60"/>
-      <img src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" alt="flask" width="auto" height="40"/>
-      <img src="https://avatars3.githubusercontent.com/u/2624634?s=400&v=4" alt="echo" width="auto" height="50"/>
-      <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin" width="auto" height="50"/>
-    </td>
-    <!-- FRONTEND -->
-    <td>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="auto" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="auto" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="auto" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="auto" height="40"/>
-      <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" alt="less" width="auto" height="50"/>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>
-      Database
-    </th>
-    <th>
-      Others
-    </th>
-  </tr>
-  <tr>
-    <!-- DATABASE -->
-    <td>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="auto" height="50"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="auto" height="50"/>
-      <img src="https://devicon.dev/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="auto" height="40"/>
-      <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgre" width="auto" height="50"/>
-    </td>
-    <!-- OTHERS -->
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="40"/>
-      <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="aws" width="auto" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="auto" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="auto" height="40"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="auto" height="40"/>
-    </td>
-  </tr>
-</table>
-<table margin-left="auto", margin-right="auto">
-  <tr>
-    <th>
-      Hardware
-    </th>
-  </tr>
-  <tr>
-    <!-- HARDWARE -->
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png" alt="arduino" width="auto" height="50"/>
-      <img src="https://www.pngfind.com/pngs/m/19-198800_logo-raspberry-pi-icon-hd-png-download.png" alt="raspi" width="auto" height="50"/>
-      <img src="https://beagleboard.org/static/uploads/BeagleBoardCompliantLowRes.png" alt="beaglebone-black" width="auto" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv" width="auto" height="50"/> 
-      <img src="https://image.flaticon.com/icons/svg/2752/2752843.svg" alt="microcontroller" width="auto" height="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1200px-KiCad-Logo.svg.png" alt="kicad" width="auto" height="30"/>
-      <img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png" alt="proteus" width="auto" height="30"/>
-    </td>
-  </tr>
-</table>
 </details>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
