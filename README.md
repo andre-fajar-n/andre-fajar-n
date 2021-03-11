@@ -44,6 +44,9 @@ Here are some ideas to get you started:
       Database
     </th>
     <th>
+      Hardware
+    </th>
+    <th>
       Others
     </th>
   </tr>
@@ -81,6 +84,16 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Redis-dc382d?style=plastic&logo=redis&logoColor=white" alt="redis" width="auto" height="30"/><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-336971?style=plastic&logo=postgresql&logoColor=white" alt="postgre" width="auto" height="30"/><br/>
     </td>
+    <!-- HARDWARE -->
+    <td>
+      <img src="https://img.shields.io/badge/Arduino-00979d?style=plastic&logo=arduino&logoColor=white" alt="arduino" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-c51a4a?style=plastic&logo=Raspberry%20Pi&logoColor=white" alt="raspi" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/OpenCV-5c3ee8?style=plastic&logo=OpenCV&logoColor=white" alt="opencv" width="auto" height="30"/><br/>
+      <img src="https://beagleboard.org/static/uploads/BeagleBoardCompliantLowRes.png" alt="beaglebone-black" width="auto" height="30"/><br/>
+      <img src="https://image.flaticon.com/icons/svg/2752/2752843.svg" alt="microcontroller" width="auto" height="30"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1200px-KiCad-Logo.svg.png" alt="kicad" width="auto" height="30"/><br/>
+      <img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png" alt="proteus" width="auto" height="30"/><br/>
+    </td>
     <!-- OTHERS -->
     <td>
       <img src="https://img.shields.io/badge/Git-f05302?style=plastic&logo=git&logoColor=white" alt="git" width="auto" height="30"/><br/>
@@ -93,21 +106,8 @@ Here are some ideas to get you started:
 </table>
 <table margin-left="auto", margin-right="auto">
   <tr>
-    <th>
-      Hardware
-    </th>
   </tr>
   <tr>
-    <!-- HARDWARE -->
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png" alt="arduino" width="auto" height="50"/>
-      <img src="https://www.pngfind.com/pngs/m/19-198800_logo-raspberry-pi-icon-hd-png-download.png" alt="raspi" width="auto" height="50"/>
-      <img src="https://beagleboard.org/static/uploads/BeagleBoardCompliantLowRes.png" alt="beaglebone-black" width="auto" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv" width="auto" height="50"/> 
-      <img src="https://image.flaticon.com/icons/svg/2752/2752843.svg" alt="microcontroller" width="auto" height="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1200px-KiCad-Logo.svg.png" alt="kicad" width="auto" height="30"/>
-      <img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png" alt="proteus" width="auto" height="30"/>
-    </td>
   </tr>
 </table>
 
