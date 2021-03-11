@@ -47,7 +47,7 @@ Here are some ideas to get you started:
       Hardware
     </th>
     <th>
-      Others
+      Infrastructure
     </th>
   </tr>
   <tr>
@@ -94,22 +94,33 @@ Here are some ideas to get you started:
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1200px-KiCad-Logo.svg.png" alt="kicad" width="auto" height="30"/><br/>
       <img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png" alt="proteus" width="auto" height="30"/><br/>
     </td>
-    <!-- OTHERS -->
+    <!-- INFRASTRUCTURE -->
     <td>
-      <img src="https://img.shields.io/badge/Git-f05302?style=plastic&logo=git&logoColor=white" alt="git" width="auto" height="30"/><br/>
       <img src="https://img.shields.io/badge/AWS-232f3e?style=plastic&logo=amazon%20aws&logoColor=white" alt="aws" width="auto" height="30"/><br/>
       <img src="https://img.shields.io/badge/GCP-4285f4?style=plastic&logo=google%20cloud&logoColor=white" alt="gcp" width="auto" height="30"/><br/>
       <img src="https://img.shields.io/badge/Docker-2496ed?style=plastic&logo=docker&logoColor=white" alt="docker" width="auto" height="30"/><br/>
       <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=plastic&logo=kubernetes&logoColor=white" alt="kubernetes" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Travis%20CI-3eaaaf?style=plastic&logo=Travis%20CI&logoColor=white" alt="travis-ci" width="auto" height="30"/><br/>
     </td>
   </tr>
 </table>
-<table margin-left="auto", margin-right="auto">
+
+<center>
+<table>
   <tr>
+    <th>
+      Others
+    </th>
   </tr>
   <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Git-f05302?style=plastic&logo=git&logoColor=white" alt="git" width="auto" height="30"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007acc?style=plastic&logo=visual%20studio&logoColor=white" alt="vs-code" width="auto" height="30"/>
+      <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=plastic&logo=Jupyter&logoColor=white" alt="jupyter-notebook" width="auto" height="30"/>
+    </td>
   </tr>
 </table>
+</center>
 
 <details>
   <summary><strong>:chart_with_upwards_trend: Github Statistics</strong></summary>
