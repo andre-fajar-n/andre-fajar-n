@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <a href="https://mailto:andrenugroho395@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/-andrenugroho395@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white" alt="andrefajarn" height="25" width="auto"/>
   </a>
-  <a href="https://www.hackerrank.com/afajar" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Hackerrank-2ec866?style=plastic&logo=hackerrank&logoColor=white" alt="andrefajarn" height="25" width="auto"/>
+  <a href="https://www.hackerrank.com/andrefajarn" target="blank">
+    <img align="center" src="https://img.shields.io/badge/andrefajarn-2ec866?style=plastic&logo=hackerrank&logoColor=white" alt="andrefajarn" height="25" width="auto"/>
   </a>
 - 🌱 I’m currently learning Go, Computer Vision, and Machine Learning
 - ⚡ Fun fact: I love Marvel Cinematic Universe
