@@ -40,6 +40,9 @@ Here are some ideas to get you started:
     <th>
       Frontend
     </th>
+    <th>
+      Database
+    </th>
   </tr>
   <tr>
     <!-- PROGRAMMING LANGUAGE -->
@@ -68,25 +71,22 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=plastic&logo=Bootstrap&logoColor=white" alt="bootstrap" width="auto" height="30"/><br/>
       <img src="https://img.shields.io/badge/Less-1d365d?style=plastic&logo=Less&logoColor=white" alt="less" width="auto" height="30"/><br/>
     </td>
+    <!-- DATABASE -->
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479a1?style=plastic&logo=mysql&logoColor=white" alt="mysql" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-47a248?style=plastic&logo=mongodb&logoColor=white" alt="mongodb" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Redis-dc382d?style=plastic&logo=redis&logoColor=white" alt="redis" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336971?style=plastic&logo=postgresql&logoColor=white" alt="postgre" width="auto" height="30"/><br/>
+    </td>
   </tr>
 </table>
 <table>
   <tr>
     <th>
-      Database
-    </th>
-    <th>
       Others
     </th>
   </tr>
   <tr>
-    <!-- DATABASE -->
-    <td>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="auto" height="50"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="auto" height="50"/>
-      <img src="https://devicon.dev/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="auto" height="40"/>
-      <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgre" width="auto" height="50"/>
-    </td>
     <!-- OTHERS -->
     <td>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="40"/>
