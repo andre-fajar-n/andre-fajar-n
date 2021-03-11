@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Go, Computer Vision, and Machine Learning
 - ⚡ Fun fact: I love Marvel Cinematic Universe
 
-<summary><strong>:books: Currently (and Future) Learning</strong></summary>
+<strong>:books: Currently (and Future) Learning</strong>
   <table>
   <tr>
     <th>
@@ -108,10 +108,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-  | Others |
-  |--------|
-  |<img src="https://img.shields.io/badge/Git-f05302?style=plastic&logo=git&logoColor=white" alt="git" width="auto" height="30"/> <!--                                          --> <img src="https://img.shields.io/badge/VS%20Code-007acc?style=plastic&logo=visual%20studio&logoColor=white" alt="vs-code" width="auto" height="30"/> <!--                    --> <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=plastic&logo=Jupyter&logoColor=white" alt="jupyter-notebook" width="auto" height="30"/> <!--          --> <img src="https://img.shields.io/badge/Ubuntu-e95420?style=plastic&logo=ubuntu&logoColor=white" alt="ubuntu" width="auto" height="30"/> <!--                                 --> <img src="https://img.shields.io/badge/Windows-0078d6?style=plastic&logo=windows&logoColor=white" alt="windows" width="auto" height="30"/> <!--                              --> <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" alt="heroku" width="auto" height="30"/> <!--                                 --> <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" alt="vercel" width="auto" height="30"/> <!--                                 --> |
-
 <table>
   <tr>
     <th>
@@ -123,6 +119,10 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Git-f05302?style=plastic&logo=git&logoColor=white" alt="git" width="auto" height="30"/>
       <img src="https://img.shields.io/badge/VS%20Code-007acc?style=plastic&logo=visual%20studio&logoColor=white" alt="vs-code" width="auto" height="30"/>
       <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=plastic&logo=Jupyter&logoColor=white" alt="jupyter-notebook" width="auto" height="30"/>
+      <img src="https://img.shields.io/badge/Ubuntu-e95420?style=plastic&logo=ubuntu&logoColor=white" alt="ubuntu" width="auto" height="30"/>
+      <img src="https://img.shields.io/badge/Windows-0078d6?style=plastic&logo=windows&logoColor=white" alt="windows" width="auto" height="30"/>
+      <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" alt="heroku" width="auto" height="30"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" alt="vercel" width="auto" height="30"/>
     </td>
   </tr>
 </table>
