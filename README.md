@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <a href="https://refactory.id/" target="blank"> <img src="https://refactory-id.s3.amazonaws.com/webassets-prod/public/assets/img/kits/Refactory-Logo001(black).png" width="auto" height="20"/> </a>
 - 📫 How to reach me: <br/>
   <a href="https://www.linkedin.com/in/andre-fajar-n/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-andre--fajar--n-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-fajar-n/)" alt="andrefajarn" height="20" width="auto"/>
+    <img align="center" src="https://img.shields.io/badge/-andre--fajar--n-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-fajar-n/)" alt="andrefajarn" height="25" width="auto"/>
   </a>
   <a href="https://www.facebook.com/andrefajarn/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/andrefajarn-1877F2?style=plastic&logo=facebook&logoColor=white" alt="andrefajarn" height="20" width="auto" />
+    <img align="center" src="https://img.shields.io/badge/andrefajarn-1877F2?style=plastic&logo=facebook&logoColor=white" alt="andrefajarn" height="25" width="auto" />
   </a>
   <a href="https://instagram.com/andrefajarn" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-andrefajarn-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/andrefajarn/)" alt="andrefajarn" height="20" width="auto"/>
+    <img align="center" src="https://img.shields.io/badge/-andrefajarn-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/andrefajarn/)" alt="andrefajarn" height="25" width="auto"/>
   </a>
   <a href="https://mailto:andrenugroho395@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-andrenugroho395@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:andrenugroho395@gmail.com)" alt="andrefajarn" height="20" width="auto"/>
+    <img align="center" src="https://img.shields.io/badge/-andrenugroho395@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:andrenugroho395@gmail.com)" alt="andrefajarn" height="25" width="auto"/>
   </a>
 - 🌱 I’m currently learning Go, Computer Vision, and Machine Learning
 - ⚡ Fun fact: I love Marvel Cinematic Universe
@@ -42,6 +42,9 @@ Here are some ideas to get you started:
     </th>
     <th>
       Database
+    </th>
+    <th>
+      Others
     </th>
   </tr>
   <tr>
@@ -78,22 +81,13 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Redis-dc382d?style=plastic&logo=redis&logoColor=white" alt="redis" width="auto" height="30"/><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-336971?style=plastic&logo=postgresql&logoColor=white" alt="postgre" width="auto" height="30"/><br/>
     </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>
-      Others
-    </th>
-  </tr>
-  <tr>
     <!-- OTHERS -->
     <td>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="40"/>
-      <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="aws" width="auto" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="auto" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="auto" height="40"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="auto" height="40"/>
+      <img src="https://img.shields.io/badge/Git-f05302?style=plastic&logo=git&logoColor=white" alt="git" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/AWS-232f3e?style=plastic&logo=amazon%20aws&logoColor=white" alt="aws" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/GCP-4285f4?style=plastic&logo=google%20cloud&logoColor=white" alt="gcp" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ed?style=plastic&logo=docker&logoColor=white" alt="docker" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=plastic&logo=kubernetes&logoColor=white" alt="kubernetes" width="auto" height="30"/><br/>
     </td>
   </tr>
 </table>
