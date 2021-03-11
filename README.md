@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <table>
   <tr>
     <th>
-      Programming Language
+      Programming <br/> Language
     </th>
     <th>
       Backend
@@ -60,12 +60,13 @@ Here are some ideas to get you started:
     </td>
     <!-- FRONTEND -->
     <td>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="auto" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="auto" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="auto" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="auto" height="40"/>
-      <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" alt="less" width="auto" height="50"/>
+      <img src="https://img.shields.io/badge/ReactJS-61dafb?style=plastic&logo=react&logoColor=white" alt="react" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/React%20Router-ca4245?style=plastic&logo=React%20Router&logoColor=white" alt="react-router" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Redux-764abc?style=plastic&logo=Redux&logoColor=white" alt="redux" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/HTML5-e34f26?style=plastic&logo=HTML5&logoColor=white" alt="html5" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572b6?style=plastic&logo=CSS3&logoColor=white" alt="css3" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=plastic&logo=Bootstrap&logoColor=white" alt="bootstrap" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Less-1d365d?style=plastic&logo=Less&logoColor=white" alt="less" width="auto" height="30"/><br/>
     </td>
   </tr>
 </table>
