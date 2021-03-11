@@ -12,18 +12,18 @@ Here are some ideas to get you started:
 
 - :indonesia: I'm from Indonesia :indonesia:
 - 🔭 I’m currently working on <a href="https://refactory.id/" target="blank"> <img src="https://refactory-id.s3.amazonaws.com/webassets-prod/public/assets/img/kits/Refactory-Logo001(black).png" width="auto" height="20"/> </a>
-- 📫 How to reach me: 
+- 📫 How to reach me: <br/>
   <a href="https://www.linkedin.com/in/andre-fajar-n/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrefajarn" height="auto" width="20" />
+    <img align="center" src="https://img.shields.io/badge/-andre--fajar--n-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-fajar-n/)" alt="andrefajarn" height="20" width="auto"/>
   </a>
-  <a href="https://fb.com/an.fa.nu0706" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="andrefajarn" height="auto" width="20" />
+  <a href="https://www.facebook.com/andrefajarn/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/andrefajarn-1877F2?style=plastic&logo=facebook&logoColor=white" alt="andrefajarn" height="20" width="auto" />
   </a>
   <a href="https://instagram.com/andrefajarn" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andrefajarn" height="auto" width="20" />
+    <img align="center" src="https://img.shields.io/badge/-andrefajarn-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/andrefajarn/)" alt="andrefajarn" height="20" width="auto"/>
   </a>
   <a href="https://mailto:andrenugroho395@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="andrefajarn" height="auto" width="20" />
+    <img align="center" src="https://img.shields.io/badge/-andrenugroho395@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:andrenugroho395@gmail.com)" alt="andrefajarn" height="20" width="auto"/>
   </a>
 - 🌱 I’m currently learning Go, Computer Vision, and Machine Learning
 - ⚡ Fun fact: I love Marvel Cinematic Universe
