@@ -228,4 +228,8 @@ C++                      4 repos             ███░░░░░░░░�
 
 </details>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+<details>
+  <summary><strong>🏆 Github Trophy</strong></summary>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
