@@ -146,11 +146,11 @@ C++                      4 repos             ███░░░░░░░░�
   <tr>
     <!-- PROGRAMMING LANGUAGE -->
     <td>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="auto" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="auto" height="40"/>
-      <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="c++" width="auto" height="40"/>
-      <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c" width="auto" height="40"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="python" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white" alt="javascript" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Golang-00ADD8?style=plastic&logo=go&logoColor=white" alt="go" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white" alt="c++" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white" alt="c" width="auto" height="30"/><br/>
     </td>
     <!-- BACKEND -->
     <td>
