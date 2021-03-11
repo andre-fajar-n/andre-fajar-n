@@ -14,16 +14,19 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <a href="https://refactory.id/" target="blank"> <img src="https://refactory-id.s3.amazonaws.com/webassets-prod/public/assets/img/kits/Refactory-Logo001(black).png" width="auto" height="20"/> </a>
 - 📫 How to reach me: <br/>
   <a href="https://www.linkedin.com/in/andre-fajar-n/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-andre--fajar--n-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-fajar-n/)" alt="andrefajarn" height="25" width="auto"/>
+    <img align="center" src="https://img.shields.io/badge/-andre--fajar--n-blue?style=plastic&logo=Linkedin&logoColor=white" alt="andrefajarn" height="25" width="auto"/>
   </a>
   <a href="https://www.facebook.com/andrefajarn/" target="blank">
     <img align="center" src="https://img.shields.io/badge/andrefajarn-1877F2?style=plastic&logo=facebook&logoColor=white" alt="andrefajarn" height="25" width="auto" />
   </a>
   <a href="https://instagram.com/andrefajarn" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-andrefajarn-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/andrefajarn/)" alt="andrefajarn" height="25" width="auto"/>
+    <img align="center" src="https://img.shields.io/badge/-andrefajarn-purple?style=plastic&logo=instagram&logoColor=white" alt="andrefajarn" height="25" width="auto"/>
   </a>
   <a href="https://mailto:andrenugroho395@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-andrenugroho395@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:andrenugroho395@gmail.com)" alt="andrefajarn" height="25" width="auto"/>
+    <img align="center" src="https://img.shields.io/badge/-andrenugroho395@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white" alt="andrefajarn" height="25" width="auto"/>
+  </a>
+  <a href="https://www.hackerrank.com/afajar" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Hackerrank-2ec866?style=plastic&logo=hackerrank&logoColor=white" alt="andrefajarn" height="25" width="auto"/>
   </a>
 - 🌱 I’m currently learning Go, Computer Vision, and Machine Learning
 - ⚡ Fun fact: I love Marvel Cinematic Universe
@@ -105,7 +108,10 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<center>
+  | Others |
+  |--------|
+  |<img src="https://img.shields.io/badge/Git-f05302?style=plastic&logo=git&logoColor=white" alt="git" width="auto" height="30"/> <!--                                          --> <img src="https://img.shields.io/badge/VS%20Code-007acc?style=plastic&logo=visual%20studio&logoColor=white" alt="vs-code" width="auto" height="30"/> <!--                    --> <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=plastic&logo=Jupyter&logoColor=white" alt="jupyter-notebook" width="auto" height="30"/> <!--          --> <img src="https://img.shields.io/badge/Ubuntu-e95420?style=plastic&logo=ubuntu&logoColor=white" alt="ubuntu" width="auto" height="30"/> <!--                                 --> <img src="https://img.shields.io/badge/Windows-0078d6?style=plastic&logo=windows&logoColor=white" alt="windows" width="auto" height="30"/> <!--                              --> <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" alt="heroku" width="auto" height="30"/> <!--                                 --> <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" alt="vercel" width="auto" height="30"/> <!--                                 --> |
+
 <table>
   <tr>
     <th>
@@ -120,7 +126,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-</center>
 
 <details>
   <summary><strong>:chart_with_upwards_trend: Github Statistics</strong></summary>
