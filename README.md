@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   <tr>
     <!-- PROGRAMMING LANGUAGE -->
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="python" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&link=https://www.python.org" alt="python" width="auto" height="30"/><br/>
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white" alt="javascript" width="auto" height="30"/><br/>
       <img src="https://img.shields.io/badge/Golang-00ADD8?style=plastic&logo=go&logoColor=white" alt="go" width="auto" height="30"/><br/>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white" alt="c++" width="auto" height="30"/><br/>
