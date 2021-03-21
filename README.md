@@ -130,13 +130,13 @@ Here are some ideas to get you started:
 <details>
   <summary><strong>:chart_with_upwards_trend: Github Statistics</strong></summary>
   
-  [![github's stats](https://github-readme-stats.vercel.app/api?username=andre-fajar-n&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![github's stats](https://github.com/andre-fajar-n/github-stats/blob/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
+  [![github's stats](https://github-readme-stats.vercel.app/api?username=andre-fajar-n&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![github's stats](https://github.com/andre-fajar-n/github-stats/blob/main/generated/overview.svg)](https://github.com/jstrieb/github-stats)
 </details>
   
 <details>
   <summary><strong>:bar_chart: Top Languages</strong></summary>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fajar-n&langs_count=10&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![top languages](https://github.com/andre-fajar-n/github-stats/blob/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fajar-n&langs_count=10&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![top languages](https://github.com/andre-fajar-n/github-stats/blob/main/generated/languages.svg)](https://github.com/jstrieb/github-stats)
 </details>
 
 <details>
