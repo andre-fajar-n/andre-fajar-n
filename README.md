@@ -149,13 +149,13 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-930771%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-930808%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 292 Contributions in the Year 2021
+> 🏆 293 Contributions in the Year 2021
  > 
 > 📦 295.5 kB Used in Github's Storage 
  > 
@@ -194,18 +194,17 @@ Sunday       120 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  34 hrs 19 mins      █████████████████████████   100.0%
+VS Code                  33 hrs 9 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shipment                 27 hrs 50 mins      ████████████████████░░░░░   81.11% 
-shop                     4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
-github-stats             56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-account                  54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
-dispatch                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
+shipment                 27 hrs 50 mins      █████████████████████░░░░   83.97% 
+shop                     4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
+account                  54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
+dispatch                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 💻 Operating System: 
-Linux                    33 hrs 9 mins       ████████████████████████░   96.59% 
-Windows                  1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41%
+Linux                    33 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
