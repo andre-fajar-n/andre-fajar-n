@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/andrefajarn" target="blank">
     <img align="center" src="https://img.shields.io/badge/andrefajarn-2ec866?style=plastic&logo=hackerrank&logoColor=white" alt="andrefajarn" height="25" width="auto"/>
   </a>
-- 🌱 I’m currently learning Go, Computer Vision, and Machine Learning
+- 🌱 I’m currently learning Backend, IoT, Computer Vision, and Machine Learning
 - ⚡ Fun fact: I love Marvel Cinematic Universe
 
 <strong>:books: Currently (and Future) Learning</strong>
