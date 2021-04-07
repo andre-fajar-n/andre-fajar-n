@@ -149,13 +149,13 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-931297%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 349 Contributions in the Year 2021
+> 🏆 360 Contributions in the Year 2021
  > 
 > 📦 295.6 kB Used in Github's Storage 
  > 
@@ -194,16 +194,16 @@ Sunday       120 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  25 hrs 39 mins      █████████████████████████   100.0%
+VS Code                  24 hrs 22 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shipment                 16 hrs 34 mins      ████████████████░░░░░░░░░   64.6% 
-shop                     7 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   30.13% 
-account                  1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.9% 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
+shipment                 18 hrs 37 mins      ███████████████████░░░░░░   76.41% 
+shop                     4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
+account                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.05% 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 💻 Operating System: 
-Linux                    25 hrs 39 mins      █████████████████████████   100.0%
+Linux                    24 hrs 22 mins      █████████████████████████   100.0%
 
 ```
 
