@@ -233,7 +233,7 @@ C++                      4 repos             ██░░░░░░░░░�
   Reference: <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></br>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5235](https://github.com/simple-icons/simple-icons/issues/5235) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🎉 Merged PR [#2](https://github.com/andre-fajar-n/API-Ecommerce-Andreino/pull/2) in [andre-fajar-n/API-Ecommerce-Andreino](https://github.com/andre-fajar-n/API-Ecommerce-Andreino)
   <!--END_SECTION:activity-->
 </details>
 
