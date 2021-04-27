@@ -149,15 +149,15 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-932292%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 437 Contributions in the Year 2021
+> 🏆 440 Contributions in the Year 2021
  > 
-> 📦 295.7 kB Used in Github's Storage 
+> 📦 295.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -194,17 +194,17 @@ Sunday       112 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  39 hrs 59 mins      █████████████████████████   100.0%
+VS Code                  33 hrs 23 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shipment                 15 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   38.57% 
-Online-Store             11 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   28.86% 
-classroom-service        11 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   27.69% 
-shop                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
-Treasure-Hunt            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+shipment                 15 hrs 3 mins       ███████████░░░░░░░░░░░░░░   45.1% 
+classroom-service        11 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   33.63% 
+Online-Store             5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
+shop                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
+user-service             32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
 
 💻 Operating System: 
-Linux                    39 hrs 59 mins      █████████████████████████   100.0%
+Linux                    33 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
