@@ -149,7 +149,7 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-932292%20lines%20of%20code-blue)
 
@@ -194,14 +194,14 @@ Sunday       111 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  3 hrs 58 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 34 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shipment                 3 hrs 38 mins       ███████████████████████░░   91.77% 
-account                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.23%
+shipment                 3 hrs 14 mins       ██████████████████████░░░   90.84% 
+account                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.16%
 
 💻 Operating System: 
-Linux                    3 hrs 58 mins       █████████████████████████   100.0%
+Linux                    3 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
