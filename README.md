@@ -149,13 +149,13 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-931998%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 615 Contributions in the Year 2021
+> 🏆 617 Contributions in the Year 2021
  > 
 > 📦 295.6 kB Used in Github's Storage 
  > 
@@ -194,18 +194,18 @@ Sunday       131 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  11 hrs 55 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 47 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shipment                 7 hrs 16 mins       ███████████████░░░░░░░░░░   61.01% 
-shop                     2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   22.96% 
-Online-Store             1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-Hexapod_Robot            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
-account                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
+shipment                 8 hrs               █████████████████░░░░░░░░   67.93% 
+shop                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
+Online-Store             1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
+Hexapod_Robot            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
+account                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
 
 💻 Operating System: 
-Linux                    11 hrs 44 mins      ████████████████████████░   98.39% 
-Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
+Linux                    11 hrs 35 mins      ████████████████████████░   98.37% 
+Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
 
 ```
 
@@ -222,7 +222,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2021
+ Last Updated on 03/07/2021
 <!--END_SECTION:waka-->
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
