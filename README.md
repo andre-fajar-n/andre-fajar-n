@@ -149,7 +149,7 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-931999%20lines%20of%20code-blue)
 
@@ -194,15 +194,16 @@ Sunday       132 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  6 hrs 43 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 43 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shipment                 5 hrs 34 mins       ████████████████████░░░░░   82.77% 
-shop                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-account                  34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.47%
+shipment                 2 hrs 20 mins       ███████████████░░░░░░░░░░   62.94% 
+account                  45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.37% 
+shop                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
+Profile-Page             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
 💻 Operating System: 
-Linux                    6 hrs 43 mins       █████████████████████████   100.0%
+Linux                    3 hrs 43 mins       █████████████████████████   100.0%
 
 ```
 
@@ -219,7 +220,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2021
+ Last Updated on 14/07/2021
 <!--END_SECTION:waka-->
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
