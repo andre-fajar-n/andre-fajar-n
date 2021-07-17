@@ -149,7 +149,7 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-932141%20lines%20of%20code-blue)
 
@@ -211,17 +211,17 @@ Linux                    7 hrs 59 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
-Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62% 
+Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81%
 
 ```
 
 
 
- Last Updated on 16/07/2021
+ Last Updated on 17/07/2021
 <!--END_SECTION:waka-->
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
