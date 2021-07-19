@@ -233,7 +233,7 @@ C++                      4 repos             ██░░░░░░░░░�
   Reference: <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></br>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/andre-fajar-n/Youtube-Clone/pull/29) in [andre-fajar-n/Youtube-Clone](https://github.com/andre-fajar-n/Youtube-Clone)
+1. ❗️ Opened issue [#514](https://github.com/benjaminsampica/benjaminsampica/issues/514) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
   <!--END_SECTION:activity-->
 </details>
 
