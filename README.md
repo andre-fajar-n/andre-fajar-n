@@ -234,7 +234,7 @@ C++                      4 repos             ██░░░░░░░░░�
   Reference: <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></br>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/andre-fajar-n/FrontEnd-Ecommerce/pull/2) in [andre-fajar-n/FrontEnd-Ecommerce](https://github.com/andre-fajar-n/FrontEnd-Ecommerce)
+1. 🎉 Merged PR [#13](https://github.com/andre-fajar-n/WA-web-clone/pull/13) in [andre-fajar-n/WA-web-clone](https://github.com/andre-fajar-n/WA-web-clone)
   <!--END_SECTION:activity-->
 </details>
 
