@@ -234,7 +234,7 @@ C++                      4 repos             ██░░░░░░░░░�
   Reference: <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></br>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/andre-fajar-n/WA-web-clone/pull/13) in [andre-fajar-n/WA-web-clone](https://github.com/andre-fajar-n/WA-web-clone)
+1. 🎉 Merged PR [#35](https://github.com/andre-fajar-n/Muslim-Guide/pull/35) in [andre-fajar-n/Muslim-Guide](https://github.com/andre-fajar-n/Muslim-Guide)
   <!--END_SECTION:activity-->
 </details>
 
