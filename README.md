@@ -129,8 +129,17 @@ Here are some ideas to get you started:
 
 <details>
   <summary><strong>:chart_with_upwards_trend: Github Statistics</strong></summary>
-  
-  [![github's stats](https://github-readme-stats.vercel.app/api?username=andre-fajar-n&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![github's stats](https://github.com/andre-fajar-n/github-stats/blob/main/generated/overview.svg)](https://github.com/jstrieb/github-stats)
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=andre-fajar-n&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+    </a>
+    <a href="https://github.com/jstrieb/github-stats" align="center">
+      <img src="https://github.com/andre-fajar-n/github-stats/blob/main/generated/overview.svg" />
+    </a>
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center">
+      <img src="https://activity-graph.herokuapp.com/graph?username=andre-fajar-n&theme=github&bg_color=20232a" />
+    </a>
+  </div>
 </details>
   
 <details>
