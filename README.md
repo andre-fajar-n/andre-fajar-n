@@ -164,7 +164,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 836 Contributions in the Year 2021
+> 🏆 838 Contributions in the Year 2021
  > 
 > 📦 323.6 kB Used in Github's Storage 
  > 
@@ -203,14 +203,15 @@ Sunday       123 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  18 hrs 59 mins      █████████████████████████   100.0%
+VS Code                  16 hrs 23 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shop                     17 hrs 42 mins      ███████████████████████░░   93.19% 
-shipment                 1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.81%
+shop                     15 hrs 29 mins      ███████████████████████░░   94.53% 
+shipment                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.47% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Linux                    18 hrs 59 mins      █████████████████████████   100.0%
+Linux                    16 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
@@ -227,7 +228,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2021
+ Last Updated on 26/08/2021
 <!--END_SECTION:waka-->
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
