@@ -158,13 +158,13 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-926591%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 857 Contributions in the Year 2021
+> 🏆 860 Contributions in the Year 2021
  > 
 > 📦 323.7 kB Used in Github's Storage 
  > 
@@ -203,16 +203,16 @@ Sunday       102 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  21 hrs 10 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 51 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shop                     20 hrs 30 mins      ████████████████████████░   96.86% 
-shipment                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58% 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-account                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+shop                     21 hrs 11 mins      ████████████████████████░   96.92% 
+shipment                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51% 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
+account                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 💻 Operating System: 
-Linux                    21 hrs 10 mins      █████████████████████████   100.0%
+Linux                    21 hrs 51 mins      █████████████████████████   100.0%
 
 ```
 
@@ -229,7 +229,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2021
+ Last Updated on 02/09/2021
 <!--END_SECTION:waka-->
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
