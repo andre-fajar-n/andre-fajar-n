@@ -242,7 +242,7 @@ C++                      4 repos             ██░░░░░░░░░�
   Reference: <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></br>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/avinash201199/DSA-Questions/issues/20) in [avinash201199/DSA-Questions](https://github.com/avinash201199/DSA-Questions)
+1. 💪 Opened PR [#24](https://github.com/avinash201199/DSA-Questions/pull/24) in [avinash201199/DSA-Questions](https://github.com/avinash201199/DSA-Questions)
   <!--END_SECTION:activity-->
 </details>
 
