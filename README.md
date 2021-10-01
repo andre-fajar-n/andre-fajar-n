@@ -242,7 +242,7 @@ C++                      4 repos             ██░░░░░░░░░�
   Reference: <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></br>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/viveakrt/Competitive-programing-hacktoberfest-2021/pull/87) in [viveakrt/Competitive-programing-hacktoberfest-2021](https://github.com/viveakrt/Competitive-programing-hacktoberfest-2021)
+1. 💪 Opened PR [#94](https://github.com/viveakrt/Competitive-programing-hacktoberfest-2021/pull/94) in [viveakrt/Competitive-programing-hacktoberfest-2021](https://github.com/viveakrt/Competitive-programing-hacktoberfest-2021)
   <!--END_SECTION:activity-->
 </details>
 
