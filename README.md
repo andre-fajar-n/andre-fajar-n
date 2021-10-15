@@ -158,7 +158,7 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-935610%20lines%20of%20code-blue)
 
@@ -203,17 +203,17 @@ Sunday       104 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  17 hrs 34 mins      █████████████████████████   100.0%
+VS Code                  11 hrs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shipment                 10 hrs 49 mins      ███████████████░░░░░░░░░░   61.64% 
-shop                     4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04% 
-OneKidecoService         1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
-account                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
-config-management        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+shipment                 7 hrs 1 min         ████████████████░░░░░░░░░   63.83% 
+shop                     2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61% 
+OneKidecoService         1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   9.25% 
+account                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.89% 
+config-management        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
 
 💻 Operating System: 
-Linux                    17 hrs 34 mins      █████████████████████████   100.0%
+Linux                    11 hrs              █████████████████████████   100.0%
 
 ```
 
@@ -230,7 +230,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2021
+ Last Updated on 15/10/2021
 <!--END_SECTION:waka-->
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
