@@ -164,13 +164,13 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,079 Contributions in the Year 2021
+> 🏆 1,074 Contributions in the Year 2021
  > 
 > 📦 326.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
@@ -203,16 +203,16 @@ Sunday       99 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  27 hrs 1 min        █████████████████████████   100.0%
+VS Code                  24 hrs 8 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-OneKidecoService         20 hrs 37 mins      ███████████████████░░░░░░   76.3% 
-shop                     6 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   22.72% 
-shipment                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+OneKidecoService         21 hrs 46 mins      ██████████████████████░░░   90.16% 
+shop                     2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
+shipment                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 💻 Operating System: 
-Linux                    27 hrs 1 min        █████████████████████████   100.0%
+Linux                    24 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -229,7 +229,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2021
+ Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
