@@ -158,19 +158,19 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-935379%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-855125%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,081 Contributions in the Year 2021
+> 🏆 1,086 Contributions in the Year 2021
  > 
 > 📦 326.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
@@ -203,17 +203,17 @@ Sunday       99 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  18 hrs 52 mins      █████████████████████████   100.0%
+VS Code                  26 hrs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-OneKidecoService         16 hrs 34 mins      ██████████████████████░░░   87.83% 
-shop                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.61% 
-Profile-Page             56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
-shipment                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+OneKidecoService         24 hrs 42 mins      ███████████████████████░░   95.0% 
+shop                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.51% 
+account                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
+shipment                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 💻 Operating System: 
-Linux                    18 hrs 52 mins      █████████████████████████   100.0%
+Linux                    26 hrs              █████████████████████████   100.0%
 
 ```
 
@@ -230,7 +230,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
