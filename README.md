@@ -158,7 +158,7 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-855%20Thousand%20lines%20of%20code-blue)
 
@@ -203,18 +203,17 @@ Sunday       97 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  26 hrs 33 mins      █████████████████████████   100.0%
+VS Code                  26 hrs 13 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-OneKidecoService         18 hrs 58 mins      █████████████████░░░░░░░░   71.44% 
-account                  4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-shipment                 2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.67% 
-shop                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-simple-icons             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
+OneKidecoService         18 hrs 58 mins      ██████████████████░░░░░░░   72.34% 
+account                  4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
+shipment                 2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.76% 
+shop                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
+config-management        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 💻 Operating System: 
-Linux                    26 hrs 13 mins      ████████████████████████░   98.75% 
-Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
+Linux                    26 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
@@ -231,7 +230,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
