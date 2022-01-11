@@ -158,7 +158,7 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-860%20Thousand%20lines%20of%20code-blue)
 
@@ -203,17 +203,17 @@ Sunday       98 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  15 hrs 45 mins      █████████████████████████   100.0%
+VS Code                  20 hrs 4 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-OneKidecoService         11 hrs 13 mins      █████████████████░░░░░░░░   71.22% 
-account                  2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
-shipment                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
-shop                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+OneKidecoService         15 hrs 5 mins       ██████████████████░░░░░░░   75.21% 
+account                  2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.51% 
+shipment                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
+shop                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66% 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
 💻 Operating System: 
-Linux                    15 hrs 45 mins      █████████████████████████   100.0%
+Linux                    20 hrs 4 mins       █████████████████████████   100.0%
 
 ```
 
@@ -230,7 +230,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2022
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
