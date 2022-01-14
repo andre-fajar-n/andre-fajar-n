@@ -158,7 +158,7 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-860%20Thousand%20lines%20of%20code-blue)
 
@@ -166,7 +166,7 @@ Here are some ideas to get you started:
 
 > 🏆 19 Contributions in the Year 2022
  > 
-> 📦 326.5 kB Used in GitHub's Storage 
+> 📦 326.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -203,17 +203,17 @@ Sunday       89 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  23 hrs 53 mins      █████████████████████████   100.0%
+VS Code                  28 hrs 39 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-OneKidecoService         18 hrs 52 mins      ███████████████████░░░░░░   79.04% 
-shop                     3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
-shipment                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   4.19% 
-account                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
-template-email-shop      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
+OneKidecoService         18 hrs              ███████████████░░░░░░░░░░   62.87% 
+shop                     8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.82% 
+template-email-shop      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
+shipment                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 💻 Operating System: 
-Linux                    23 hrs 53 mins      █████████████████████████   100.0%
+Linux                    28 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
@@ -230,7 +230,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2022
+ Last Updated on 14/01/2022
 <!--END_SECTION:waka-->
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
