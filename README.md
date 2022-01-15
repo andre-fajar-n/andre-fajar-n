@@ -158,7 +158,7 @@ Here are some ideas to get you started:
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-860%20Thousand%20lines%20of%20code-blue)
 
@@ -203,17 +203,17 @@ Sunday       89 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  28 hrs 39 mins      █████████████████████████   100.0%
+VS Code                  29 hrs 40 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-OneKidecoService         18 hrs              ███████████████░░░░░░░░░░   62.87% 
-shop                     8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.82% 
-template-email-shop      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
-shipment                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+OneKidecoService         13 hrs 40 mins      ███████████░░░░░░░░░░░░░░   46.09% 
+shop                     13 hrs 37 mins      ███████████░░░░░░░░░░░░░░   45.89% 
+template-email-shop      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
+shipment                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 💻 Operating System: 
-Linux                    28 hrs 39 mins      █████████████████████████   100.0%
+Linux                    29 hrs 40 mins      █████████████████████████   100.0%
 
 ```
 
@@ -230,7 +230,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2022
+ Last Updated on 15/01/2022
 <!--END_SECTION:waka-->
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
