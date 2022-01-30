@@ -129,7 +129,8 @@ Here are some ideas to get you started:
 
 <details>
   <summary><strong>:chart_with_upwards_trend: Github Statistics</strong></summary>
-  Reference: <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></br>
+  Reference: <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>
+  </br>
   </br>
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
@@ -139,14 +140,21 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fajar-n&langs_count=10&theme=onedark&layout=compact" />
     </a>
   </div>
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark" />
+    </a>
+  </div>
   </br>
-  Reference: <a href="https://github.com/jstrieb/github-stats">jstrieb/github-stats</a></br>
+  
+  Reference: <a href="https://github.com/jstrieb/github-stats">jstrieb/github-stats</a>
+  </br>
   </br>
   <div align="center">
-    <a href="https://github.com/jstrieb/github-stats" align="center">
+    <a href="https://github.com/andre-fajar-n/github-stats" align="center">
       <img src="https://github.com/andre-fajar-n/github-stats/blob/main/generated/overview.svg" />
     </a>
-    <a href="https://github.com/jstrieb/github-stats" align="center">
+    <a href="https://github.com/andre-fajar-n/github-stats" align="center">
       <img src="https://github.com/andre-fajar-n/github-stats/blob/main/generated/languages.svg" />
     </a>
   </div>
@@ -154,31 +162,32 @@ Here are some ideas to get you started:
  
 <details>
   <summary><strong>:bar_chart: Contribution Graph</strong></summary>
-  Reference: <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Ashutosh00710/github-readme-activity-graph</a></br>
+  Reference: <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Ashutosh00710/github-readme-activity-graph</a>
   </br>
-  
-  <strong align="center">Contributions in the last month</strong>
+  </br>
+  <p align="center"><strong>Contributions in the last month</strong></p>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=andre-fajar-n&theme=github&bg_color=20232a" />
   </a>
   
   </br></br>
-  Reference: <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">vn7n24fzkq/github-profile-summary-cards</a></br>
+  Reference: <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">vn7n24fzkq/github-profile-summary-cards</a>
+  </br>
   </br>
   
   <div align="center">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" align="center">
+    <a href="https://github.com/andre-fajar-n/Summary-Cards" align="center">
       <img src="https://raw.githubusercontent.com/andre-fajar-n/Summary-Cards/master/profile-summary-card-output/github/0-profile-details.svg" />
     </a>
   </div>
   <div align="center">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" align="center">
+    <a href="https://github.com/andre-fajar-n/Summary-Cards" align="center">
       <img src="https://raw.githubusercontent.com/andre-fajar-n/Summary-Cards/master/profile-summary-card-output/github/1-repos-per-language.svg" />
       <img src="https://raw.githubusercontent.com/andre-fajar-n/Summary-Cards/master/profile-summary-card-output/github/2-most-commit-language.svg" />
     </a>
   </div>
   <div align="center">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" align="center">
+    <a href="https://github.com/andre-fajar-n/Summary-Cards" align="center">
       <img src="https://raw.githubusercontent.com/andre-fajar-n/Summary-Cards/master/profile-summary-card-output/github/3-stats.svg" />
       <img src="https://raw.githubusercontent.com/andre-fajar-n/Summary-Cards/master/profile-summary-card-output/github/4-productive-time.svg" />
     </a>
@@ -187,7 +196,8 @@ Here are some ideas to get you started:
 
 <details>
   <summary><strong>:spiral_calendar: Github Streak Stats</strong></summary>
-  Reference: <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/github-readme-streak-stats</a></br>
+  Reference: <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/github-readme-streak-stats</a>
+  </br>
   </br>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andre-fajar-n)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -195,7 +205,8 @@ Here are some ideas to get you started:
 
 <details>
   <summary><strong>:chart_with_upwards_trend: Wakatime Statistics</strong></summary>
-  Reference: <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a></br>
+  Reference: <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
+  </br>
   </br>
   
 <!--START_SECTION:waka-->
@@ -287,13 +298,12 @@ C++                      4 repos             ██░░░░░░░░░�
  Last Updated on 29/01/2022 04:33:29 UTC
 <!--END_SECTION:waka-->
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 </details>
 
 <details>
   <summary><strong>:zap: My Recent Activity</strong></summary>
-  Reference: <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></br>
+  Reference: <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a>
+  </br>
   
   <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#4834](https://github.com/JonathanGin52/JonathanGin52/issues/4834) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
@@ -302,7 +312,8 @@ C++                      4 repos             ██░░░░░░░░░�
 
 <details>
   <summary><strong>🏆 Github Trophy</strong></summary>
-  Reference: <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma/github-profile-trophy</a></br>
+  Reference: <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma/github-profile-trophy</a>
+  </br>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
