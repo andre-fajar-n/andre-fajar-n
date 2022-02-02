@@ -161,6 +161,14 @@ Here are some ideas to get you started:
 </details>
 
 <details>
+  <summary><strong>:chart_with_upwards_trend: Github Profile 3D</strong></summary>
+  Reference: <a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111/github-profile-3d-contrib</a>
+  </br>
+
+  ![](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/profile-3d-contrib/profile-season-animate.svg)
+</details>
+
+<details>
   <summary><strong>:bar_chart: Contribution Graph</strong></summary>
   Reference: <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Ashutosh00710/github-readme-activity-graph</a>
   </br>
