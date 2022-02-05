@@ -14,6 +14,9 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           
+          # config
+          config_timezone : Asia/Jakarta
+          
           # base
           base: header, activity, community, repositories, metadata
           
@@ -41,3 +44,9 @@ jobs:
           
           # gists
           plugin_gists: yes
+          
+          # coding habits
+          plugin_habits: yes
+          plugin_habits_from: 1000
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
