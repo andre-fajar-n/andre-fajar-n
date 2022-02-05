@@ -133,7 +133,7 @@ Here are some ideas to get you started:
   </br>
   
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+    <a href="https://github.com/andre-fajar-n/andre-fajar-n/blob/master/github-metrics.svg" align="center">
       <img src="https://github.com/andre-fajar-n/andre-fajar-n/blob/master/github-metrics.svg" />
     </a>
   </div>
