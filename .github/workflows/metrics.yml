@@ -16,6 +16,7 @@ jobs:
           
           # config
           config_timezone : Asia/Jakarta
+          config_display: large
           
           # base
           base: header, activity, community, repositories, metadata
@@ -65,3 +66,7 @@ jobs:
           plugin_languages_indepth: true
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_recent_days: 365
+          
+          # licenses
+          plugin_licenses: yes
+          plugin_licenses_ratio: true
