@@ -54,3 +54,7 @@ jobs:
           plugin_habits_from: 1000
           plugin_habits_days: 30
           plugin_habits_charts: yes
+          
+          # isometric commit calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
