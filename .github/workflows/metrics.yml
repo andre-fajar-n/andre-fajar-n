@@ -17,6 +17,11 @@ jobs:
           # config
           config_timezone : Asia/Jakarta
           config_display: large
+          extras_css: |
+            h2 {
+              color: red;
+              size: 30;
+            }
           
           # base
           base: header, activity, community, repositories, metadata
@@ -69,4 +74,15 @@ jobs:
           
           # licenses
           plugin_licenses: yes
+          plugin_licenses_setup: npm ci
           plugin_licenses_ratio: true
+          
+          # line of code
+          plugin_lines: yes
+          
+          # notable
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
+          plugin_notable_types: commit, pull_request, issue
