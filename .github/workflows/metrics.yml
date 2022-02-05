@@ -19,7 +19,6 @@ jobs:
           
           # achievement
           plugin_achievements: yes
-#           plugin_achievements_limit: 20
           plugin_achievements_threshold: X
 
           # activity
@@ -31,3 +30,6 @@ jobs:
 
           # code snippet
           plugin_code: yes
+
+          # discussion
+          plugin_discussions: yes
