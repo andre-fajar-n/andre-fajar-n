@@ -20,6 +20,10 @@ jobs:
           # base
           base: header, activity, community, repositories, metadata
           
+          # introduction
+          plugin_introduction: yes
+          user: andre-fajar-n
+          
           # achievement
           plugin_achievements: yes
           plugin_achievements_threshold: X
