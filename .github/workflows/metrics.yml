@@ -90,7 +90,6 @@ jobs:
           
           # people
           plugin_people: yes
-          plugin_people_identicons: yes
           plugin_people_shuffle: yes
           
           # reactions
@@ -109,3 +108,19 @@ jobs:
           plugin_starlists: yes
           plugin_starlists_limit: 5
           plugin_starlists_limit_repositories: 5
+          
+          # repo traffic
+          plugin_traffic: yes
+          
+          # topics
+          plugin_topics: yes
+          plugin_topics_sort: random
+          plugin_topics_limit: 20
+          plugin_topics_mode: mastered
+          
+          # community support
+          plugin_support: yes
+          
+          # recently star
+          plugin_stars: yes
+          plugin_stars_limit: 10
