@@ -19,8 +19,8 @@ jobs:
           config_display: large
           extras_css: |
             h2 {
-              color: red;
-              font-size: 15px;
+              color: black;
+              font-size: 30px;
               font-weight: bold;
             }
           
@@ -124,3 +124,23 @@ jobs:
           # recently star
           plugin_stars: yes
           plugin_stars_limit: 10
+          
+          # website performance
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://andrefajarn.vercel.app
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          
+          # stackoverflow
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 14982832
+          plugin_stackoverflow_sections: answers-top, answers-recent, questions-top, questions-recent
+          plugin_stackoverflow_limit: 5
+          
+          # wakatime
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 365
+          plugin_wakatime_limit: 10
+          plugin_wakatime_user: andrefn
