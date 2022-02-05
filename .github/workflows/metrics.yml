@@ -33,3 +33,8 @@ jobs:
 
           # discussion
           plugin_discussions: yes
+          
+          # follow up pull request
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          plugin_followup_indepth: yes
