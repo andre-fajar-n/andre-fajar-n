@@ -19,7 +19,7 @@ jobs:
           
           # achievement
           plugin_achievements: yes
-          plugin_achievements_limit: 20
+#           plugin_achievements_limit: 20
           plugin_achievements_threshold: X
 
           # activity
@@ -28,3 +28,6 @@ jobs:
           plugin_activity_limit: 10
           plugin_activity_load: 1000
           plugin_activity_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
+
+          # code snippet
+          plugin_code: yes
