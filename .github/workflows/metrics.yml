@@ -20,7 +20,8 @@ jobs:
           extras_css: |
             h2 {
               color: red;
-              size: 30;
+              font-size: 15px;
+              font-weight: bold;
             }
           
           # base
@@ -86,3 +87,12 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes
           plugin_notable_types: commit, pull_request, issue
+          
+          # people
+          plugin_people: yes
+          plugin_people_identicons: yes
+          plugin_people_shuffle: yes
+          
+          # reactions
+          plugin_reactions: yes
+          plugin_reactions_details: count, percentage
