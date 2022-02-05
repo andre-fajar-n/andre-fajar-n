@@ -58,3 +58,10 @@ jobs:
           # isometric commit calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          # language
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: true
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_recent_days: 365
