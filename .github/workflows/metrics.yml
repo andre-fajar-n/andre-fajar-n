@@ -19,6 +19,11 @@ jobs:
           
           # achievement
           plugin_achievements: yes
-          plugin_achievements_secrets: yes
-#           plugin_achievements_limit: 20
+          plugin_achievements_limit: 20
           plugin_achievements_threshold: X
+
+          # activity
+          plugin_activity: yes
+          plugin_activity_timestamps: yes
+          plugin_activity_limit: 10
+          plugin_activity_load: 1000
