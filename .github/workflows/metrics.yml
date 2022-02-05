@@ -38,3 +38,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_followup_indepth: yes
+          
+          # gists
+          plugin_gists: yes
