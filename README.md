@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 
-- :indonesia: I'm from Indonesia :indonesia:
+- 🇮🇩 I'm from Indonesia 🇮🇩
 - 🔭 I’m currently working on <a href="https://refactory.id/" target="blank"> <img src="https://refactory-id.s3.amazonaws.com/webassets-prod/public/assets/img/kits/Refactory-Logo001(black).png" width="auto" height="20"/> </a>
 - 📫 How to reach me: <br/>
   <a href="https://www.linkedin.com/in/andre-fajar-n/" target="blank">
@@ -126,7 +126,19 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
- 
+
+<details>
+  <summary><strong>📊 Github Metrics</strong></summary>
+  Reference: <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>
+  </br>
+  
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+      <img src="https://github.com/andre-fajar-n/andre-fajar-n/blob/master/github-metrics.svg" />
+    </a>
+  </div>
+</details>
+
 <details>
   <summary><strong>:chart_with_upwards_trend: Github Statistics</strong></summary>
   Reference: <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>
