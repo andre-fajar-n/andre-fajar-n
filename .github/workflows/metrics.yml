@@ -23,6 +23,8 @@ jobs:
               font-size: 20px;
               font-weight: bold;
             }
+          retries: 3
+          retries_delay: 300
           
           # base
           base: header, activity, community, repositories, metadata
