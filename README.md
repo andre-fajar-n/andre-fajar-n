@@ -325,7 +325,7 @@ C++                      4 repos             ██░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4834](https://github.com/JonathanGin52/JonathanGin52/issues/4834) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. ❗️ Opened issue [#1269](https://github.com/benjaminsampica/benjaminsampica/issues/1269) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
   <!--END_SECTION:activity-->
 </details>
 
