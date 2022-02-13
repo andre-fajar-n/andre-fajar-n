@@ -334,5 +334,9 @@ C++                      4 repos             ██░░░░░░░░░�
   Reference: <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma/github-profile-trophy</a>
   </br>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=andre-fajar-n&theme=onedark&margin-w=5&column=3" />
+    </a>
+  </div>
 </details>
