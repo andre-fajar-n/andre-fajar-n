@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 17 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -24,7 +24,7 @@ jobs:
               font-weight: bold;
             }
           retries: 3
-          retries_delay: 300
+          retries_delay: 600
           
           # base
           base: header, activity, community, repositories, metadata
@@ -121,13 +121,7 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          
-          # stackoverflow
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 14982832
-          plugin_stackoverflow_sections: answers-top, answers-recent, questions-top, questions-recent
-          plugin_stackoverflow_limit: 5
-          
+  
           # wakatime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
