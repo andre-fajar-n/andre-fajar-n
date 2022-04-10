@@ -325,7 +325,7 @@ C++                      4 repos             ██░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1269](https://github.com/benjaminsampica/benjaminsampica/issues/1269) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+1. 🎉 Merged PR [#22](https://github.com/andre-fajar-n/FrontEnd-Ecommerce/pull/22) in [andre-fajar-n/FrontEnd-Ecommerce](https://github.com/andre-fajar-n/FrontEnd-Ecommerce)
   <!--END_SECTION:activity-->
 </details>
 
