@@ -230,7 +230,7 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-845%20Thousand%20lines%20of%20code-blue)
 
@@ -275,18 +275,17 @@ Sunday       85 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       5 hrs 6 mins        █████████████████████████   100.0%
+Go                       2 hrs 28 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  5 hrs 6 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 28 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-OneKidecoService         3 hrs 39 mins       ██████████████████░░░░░░░   71.85% 
-shipment                 1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52% 
-account                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.63%
+shipment                 2 hrs 17 mins       ███████████████████████░░   92.53% 
+account                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.47%
 
 💻 Operating System: 
-Linux                    5 hrs 6 mins        █████████████████████████   100.0%
+Linux                    2 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -307,7 +306,7 @@ C++                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/04/2022 02:02:26 UTC
+ Last Updated on 03/05/2022 02:01:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
