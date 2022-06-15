@@ -44,9 +44,6 @@ jobs:
           plugin_activity_load: 1000
           plugin_activity_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
 
-          # code snippet
-          plugin_code: yes
-
           # discussion
           plugin_discussions: yes
           
@@ -54,9 +51,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_followup_indepth: yes
-          
-          # gists
-          plugin_gists: yes
           
           # coding habits
           plugin_habits: yes
@@ -114,14 +108,7 @@ jobs:
           # recently star
           plugin_stars: yes
           plugin_stars_limit: 10
-          
-          # website performance
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://andrefajarn.vercel.app
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-  
+
           # wakatime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
