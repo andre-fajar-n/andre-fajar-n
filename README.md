@@ -232,15 +232,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-850%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 928 Contributions in the Year 2022
+> 🏆 931 Contributions in the Year 2022
  > 
-> 📦 2.5 MB Used in GitHub's Storage 
+> 📦 2.6 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -277,16 +277,22 @@ Sunday       73 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       5 hrs 41 mins       ██████████████████████░░░   91.47% 
+SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.8% 
+TOML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 12 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+shop                     5 hrs 21 mins       █████████████████████░░░░   86.17% 
+pg-prototype             47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
+shipment                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    6 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
@@ -307,7 +313,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/07/2022 02:05:42 UTC
+ Last Updated on 26/07/2022 02:18:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
