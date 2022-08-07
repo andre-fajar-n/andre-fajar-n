@@ -11,7 +11,6 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - name: GitHub - Activity - Readme
       - uses: jamesgeorge007/github-activity-readme@v0.3.6
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
