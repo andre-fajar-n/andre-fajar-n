@@ -230,7 +230,7 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C525%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C529%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -315,7 +315,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/01/2023 01:34:29 UTC
+ Last Updated on 22/01/2023 01:44:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
