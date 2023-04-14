@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 -->
 
 - 🇮🇩 I'm from Indonesia 🇮🇩
-- 🔭 I’m currently working on <a href="https://refactory.id/" target="blank"> <img src="https://refactory-id.s3.amazonaws.com/webassets-prod/public/assets/img/kits/Refactory-Logo001(black).png" width="auto" height="20"/> </a>
 - 📫 How to reach me: <br/>
   <a href="https://www.linkedin.com/in/andre-fajar-n/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-andre--fajar--n-blue?style=plastic&logo=Linkedin&logoColor=white" alt="andrefajarn" height="25" width="auto"/>
