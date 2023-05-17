@@ -153,7 +153,7 @@ Here are some ideas to get you started:
   </div>
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrefn&theme=onedark" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrefajarn&theme=onedark" />
     </a>
   </div>
   </br>
