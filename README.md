@@ -322,7 +322,7 @@ RobotFramework           1 repo              ░░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/andre-fajar-n/FrontEnd-Ecommerce/pull/22) in [andre-fajar-n/FrontEnd-Ecommerce](https://github.com/andre-fajar-n/FrontEnd-Ecommerce)
+1. 🎉 Merged PR [#27](https://github.com/andre-fajar-n/WA-web-clone/pull/27) in [andre-fajar-n/WA-web-clone](https://github.com/andre-fajar-n/WA-web-clone)
   <!--END_SECTION:activity-->
 </details>
 
