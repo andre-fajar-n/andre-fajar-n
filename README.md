@@ -176,7 +176,7 @@ Here are some ideas to get you started:
   Reference: <a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111/github-profile-3d-contrib</a>
   </br>
 
-  ![](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/profile-3d-contrib/profile-season-animate.svg)
+  ![](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/profile-3d-contrib/profile-gitblock.svg)
 </details>
 
 <details>
