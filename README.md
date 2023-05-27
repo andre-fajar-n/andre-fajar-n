@@ -186,7 +186,7 @@ Here are some ideas to get you started:
   </br>
   <p align="center"><strong>Contributions in the last month</strong></p>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=andre-fajar-n&theme=github&bg_color=20232a" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=andre-fajar-n&theme=github-light" />
   </a>
 
   </br></br>
