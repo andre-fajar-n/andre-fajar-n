@@ -322,7 +322,7 @@ RobotFramework           1 repo              ░░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6960](https://github.com/simple-icons/simple-icons/pull/6960) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🎉 Merged PR [#1](https://github.com/andre-fajar-n/Application-Tracker-BE/pull/1) in [andre-fajar-n/Application-Tracker-BE](https://github.com/andre-fajar-n/Application-Tracker-BE)
   <!--END_SECTION:activity-->
 </details>
 
