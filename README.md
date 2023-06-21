@@ -195,20 +195,20 @@ Here are some ideas to get you started:
   </br>
 
   <div align="center">
-    <a href="https://github.com/andre-fajar-n/Summary-Cards" align="center">
-      <img src="https://raw.githubusercontent.com/andre-fajar-n/Summary-Cards/master/profile-summary-card-output/github/0-profile-details.svg" />
+    <a href="https://github.com/andre-fajar-n/andre-fajar-n" align="center">
+      <img src="https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/profile-summary-card-output/github/0-profile-details.svg" />
     </a>
   </div>
   <div align="center">
-    <a href="https://github.com/andre-fajar-n/Summary-Cards" align="center">
-      <img src="https://raw.githubusercontent.com/andre-fajar-n/Summary-Cards/master/profile-summary-card-output/github/1-repos-per-language.svg" />
-      <img src="https://raw.githubusercontent.com/andre-fajar-n/Summary-Cards/master/profile-summary-card-output/github/2-most-commit-language.svg" />
+    <a href="https://github.com/andre-fajar-n/andre-fajar-n" align="center">
+      <img src="https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/profile-summary-card-output/github/1-repos-per-language.svg" />
+      <img src="https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/profile-summary-card-output/github/2-most-commit-language.svg" />
     </a>
   </div>
   <div align="center">
-    <a href="https://github.com/andre-fajar-n/Summary-Cards" align="center">
-      <img src="https://raw.githubusercontent.com/andre-fajar-n/Summary-Cards/master/profile-summary-card-output/github/3-stats.svg" />
-      <img src="https://raw.githubusercontent.com/andre-fajar-n/Summary-Cards/master/profile-summary-card-output/github/4-productive-time.svg" />
+    <a href="https://github.com/andre-fajar-n/andre-fajar-n" align="center">
+      <img src="https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/profile-summary-card-output/github/3-stats.svg" />
+      <img src="https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/profile-summary-card-output/github/4-productive-time.svg" />
     </a>
   </div>
 </details>
