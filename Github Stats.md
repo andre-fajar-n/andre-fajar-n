@@ -1,3 +1,12 @@
+# Related File/Folder in This Repository
+- [.github workflow](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/.github/workflows/github-stats.yml)
+- [.gitattributes](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/.gitattributes)
+- [.gitignore](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/.gitignore)
+- [generate_images.py](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/generate_images.py)
+- [github_stats.py](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/github_stats.py)
+- [LICENSE](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/LICENSE)
+- [requirements.txt](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/requirements.txt)
+
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <a href="https://github.com/jstrieb/github-stats">
