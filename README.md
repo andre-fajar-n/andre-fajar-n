@@ -162,11 +162,11 @@ Here are some ideas to get you started:
   </br>
   </br>
   <div align="center">
-    <a href="https://github.com/andre-fajar-n/github-stats" align="center">
-      <img src="https://github.com/andre-fajar-n/github-stats/blob/main/generated/overview.svg" />
+    <a href="https://github.com/andre-fajar-n/andre-fajar-n" align="center">
+      <img src="https://github.com/andre-fajar-n/andre-fajar-n/blob/main/generated/overview.svg" />
     </a>
-    <a href="https://github.com/andre-fajar-n/github-stats" align="center">
-      <img src="https://github.com/andre-fajar-n/github-stats/blob/main/generated/languages.svg" />
+    <a href="https://github.com/andre-fajar-n/andre-fajar-n" align="center">
+      <img src="https://github.com/andre-fajar-n/andre-fajar-n/blob/main/generated/languages.svg" />
     </a>
   </div>
 </details>

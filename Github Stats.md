@@ -11,8 +11,8 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/andre-fajar-n/github-stats/blob/main/generated/overview.svg)
-![](https://github.com/andre-fajar-n/github-stats/blob/main/generated/languages.svg)
+![](https://github.com/andre-fajar-n/andre-fajar-n/blob/main/generated/overview.svg)
+![](https://github.com/andre-fajar-n/andre-fajar-n/blob/main/generated/languages.svg)
 
 </a>
 
