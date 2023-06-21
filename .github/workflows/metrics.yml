@@ -30,6 +30,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           repositories_batch: 10
+          repositories_affiliations: owner, collaborator, organization_member
 
           # introduction
           plugin_introduction: yes
@@ -37,12 +38,13 @@ jobs:
 
           # achievement
           plugin_achievements: yes
-          plugin_achievements_threshold: C
 
           # activity
           plugin_activity: yes
           plugin_activity_timestamps: yes
           plugin_activity_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
+          plugin_activity_days: 365
+          plugin_activity_limit: 10
 
           # commit calendar
           plugin_calendar: yes
@@ -55,7 +57,7 @@ jobs:
 
           # coding habits
           plugin_habits: yes
-          plugin_habits_from: 500
+          plugin_habits_from: 1000
           plugin_habits_days: 30
           plugin_habits_charts: yes
 
@@ -68,12 +70,15 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: true
           plugin_languages_details: bytes-size, percentage, lines
-          plugin_languages_recent_days: 30
+          plugin_languages_recent_days: 365
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
 
           # line of code
           plugin_lines: yes
           plugin_lines_sections: base, repositories, history
           plugin_lines_repositories_limit: 10
+          plugin_lines_history_limit: 0
 
           # notable
           plugin_notable: yes
@@ -81,6 +86,7 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes
           plugin_notable_types: commit, pull_request, issue
+          plugin_notable_self: yes
 
           # people
           plugin_people: yes
@@ -89,6 +95,14 @@ jobs:
           # skyline
           plugin_skyline: yes
           plugin_skyline_quality: 1
+          plugin_skyline_frames: 120
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
 
           # repo traffic
           plugin_traffic: yes
