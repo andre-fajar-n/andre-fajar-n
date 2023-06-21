@@ -6,6 +6,7 @@
 - [github_stats.py](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/github_stats.py)
 - [LICENSE](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/LICENSE)
 - [requirements.txt](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/requirements.txt)
+- [templates](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/templates)
 
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
