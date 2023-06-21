@@ -186,7 +186,7 @@ Here are some ideas to get you started:
   </br>
   <p align="center"><strong>Contributions in the last month</strong></p>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=andre-fajar-n&theme=github&bg_color=20232a" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=andre-fajar-n&theme=github-light" />
   </a>
 
   </br></br>
@@ -322,7 +322,7 @@ RobotFramework           1 repo              ░░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/andre-fajar-n/WA-web-clone/pull/27) in [andre-fajar-n/WA-web-clone](https://github.com/andre-fajar-n/WA-web-clone)
+1. ❗ Opened issue [#8825](https://github.com/simple-icons/simple-icons/issues/8825) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
   <!--END_SECTION:activity-->
 </details>
 
