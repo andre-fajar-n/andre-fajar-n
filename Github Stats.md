@@ -7,13 +7,14 @@
 - [LICENSE](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/LICENSE)
 - [requirements.txt](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/requirements.txt)
 - [templates](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/templates)
+- [generated](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/generated)
 
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/andre-fajar-n/andre-fajar-n/blob/main/generated/overview.svg)
-![](https://github.com/andre-fajar-n/andre-fajar-n/blob/main/generated/languages.svg)
+![](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/generated/overview.svg)
+![](https://github.com/andre-fajar-n/andre-fajar-n/blob/master/generated/languages.svg)
 
 </a>
 

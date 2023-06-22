@@ -163,10 +163,10 @@ Here are some ideas to get you started:
   </br>
   <div align="center">
     <a href="https://github.com/andre-fajar-n/andre-fajar-n" align="center">
-      <img src="https://github.com/andre-fajar-n/andre-fajar-n/blob/main/generated/overview.svg" />
+      <img src="https://github.com/andre-fajar-n/andre-fajar-n/blob/master/generated/overview.svg" />
     </a>
     <a href="https://github.com/andre-fajar-n/andre-fajar-n" align="center">
-      <img src="https://github.com/andre-fajar-n/andre-fajar-n/blob/main/generated/languages.svg" />
+      <img src="https://github.com/andre-fajar-n/andre-fajar-n/blob/master/generated/languages.svg" />
     </a>
   </div>
 </details>
