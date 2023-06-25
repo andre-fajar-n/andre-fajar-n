@@ -322,7 +322,7 @@ RobotFramework           1 repo              ░░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8825](https://github.com/simple-icons/simple-icons/issues/8825) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🎉 Merged PR [#5](https://github.com/andre-fajar-n/Profile-Page/pull/5) in [andre-fajar-n/Profile-Page](https://github.com/andre-fajar-n/Profile-Page)
   <!--END_SECTION:activity-->
 </details>
 
