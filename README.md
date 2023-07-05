@@ -322,7 +322,7 @@ RobotFramework           1 repo              ░░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/andre-fajar-n/Profile-Page/pull/10) in [andre-fajar-n/Profile-Page](https://github.com/andre-fajar-n/Profile-Page)
+1. 🎉 Merged PR [#11](https://github.com/andre-fajar-n/Profile-Page/pull/11) in [andre-fajar-n/Profile-Page](https://github.com/andre-fajar-n/Profile-Page)
   <!--END_SECTION:activity-->
 </details>
 
