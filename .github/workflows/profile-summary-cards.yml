@@ -3,6 +3,7 @@ name: Generate Profile Summary Cards
 on:
   create:
   push:
+    branches: [ main, master ]
   schedule: # execute every 24 hours
     - cron: "30 18 * * *"
   workflow_dispatch:
