@@ -1,6 +1,8 @@
 name: Update Wakatime Data
 
 on:
+  push:
+    branches: [ main, master ]
   schedule:
     # Runs at 19:30 UTC
     - cron: '30 19 * * *'
