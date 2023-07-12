@@ -1,8 +1,6 @@
 name: Generate 3D Profile
 
 on:
-  push:
-    branches: [ main, master ]
   schedule: # 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
