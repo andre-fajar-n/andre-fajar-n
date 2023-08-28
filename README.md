@@ -323,7 +323,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/andre-fajar-n/Profile-Page/pull/12) in [andre-fajar-n/Profile-Page](https://github.com/andre-fajar-n/Profile-Page)
+1. 🎉 Merged PR [#4](https://github.com/andre-fajar-n/Application-Tracker/pull/4) in [andre-fajar-n/Application-Tracker](https://github.com/andre-fajar-n/Application-Tracker)
   <!--END_SECTION:activity-->
 </details>
 
