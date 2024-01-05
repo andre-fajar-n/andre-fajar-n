@@ -319,7 +319,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/andre-fajar-n/Application-Tracker/pull/10) in [andre-fajar-n/Application-Tracker](https://github.com/andre-fajar-n/Application-Tracker)
+1. ❗ Opened issue [#225](https://github.com/casbin/gorm-adapter/issues/225) in [casbin/gorm-adapter](https://github.com/casbin/gorm-adapter)
   <!--END_SECTION:activity-->
 </details>
 
