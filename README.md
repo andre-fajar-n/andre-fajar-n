@@ -272,22 +272,16 @@ Sunday                   1212 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       2 hrs 47 mins       ███████████████░░░░░░░░░░   60.63 % 
-YAML                     1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   31.90 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-efishery-service-auth-v2 3 hrs 4 mins        █████████████████░░░░░░░░   66.66 % 
-ci-with-golang           1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-iwak-tester              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-service-catalog          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      4 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -307,7 +301,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2024 19:40:41 UTC
+ Last Updated on 13/04/2024 19:41:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
