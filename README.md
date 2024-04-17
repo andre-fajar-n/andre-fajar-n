@@ -229,7 +229,7 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C496%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C499%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -272,16 +272,22 @@ Sunday                   1225 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       2 hrs 11 mins       █████████████████████░░░░   85.46 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+efishery-service-auth-v2 1 hr 36 mins        ████████████████░░░░░░░░░   62.48 % 
+service-catalog          35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+ci-with-golang           22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -301,7 +307,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2024 19:41:17 UTC
+ Last Updated on 17/04/2024 19:40:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
