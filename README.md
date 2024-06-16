@@ -229,6 +229,8 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C565%20hrs%2023%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
@@ -245,6 +247,46 @@ Here are some ideas to get you started:
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1497 commits        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+🌆 Daytime                2605 commits        ██████████░░░░░░░░░░░░░░░   39.17 % 
+🌃 Evening                2237 commits        ████████░░░░░░░░░░░░░░░░░   33.64 % 
+🌙 Night                  311 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1071 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Tuesday                  1047 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Wednesday                523 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Thursday                 1160 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Friday                   846 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Saturday                 778 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Sunday                   1225 commits        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Go                       2 hrs 34 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+efishery-service-auth-v2 2 hrs 34 mins       █████████████████████████   99.64 % 
+go1.22.1                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+
+💻 Operating System: 
+WSL                      2 hrs 34 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -262,7 +304,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 19:41:21 UTC
+ Last Updated on 16/06/2024 19:41:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
