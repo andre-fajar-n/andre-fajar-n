@@ -229,7 +229,7 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C584%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C584%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -274,18 +274,18 @@ Sunday                   1225 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-YAML                     1 hr 2 mins         █████████████████████████   99.35 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+YAML                     1 hr 4 mins         ████████████████████████░   95.83 % 
+Go                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-monorepo-helm            47 mins             ███████████████████░░░░░░   75.20 % 
-efishery-service-auth-v2 15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+monorepo-helm            47 mins             ██████████████████░░░░░░░   71.11 % 
+efishery-service-auth-v2 19 mins             ███████░░░░░░░░░░░░░░░░░░   28.89 % 
 
 💻 Operating System: 
-WSL                      1 hr 3 mins         █████████████████████████   100.00 % 
+WSL                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -305,7 +305,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2024 19:42:27 UTC
+ Last Updated on 10/07/2024 19:41:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
