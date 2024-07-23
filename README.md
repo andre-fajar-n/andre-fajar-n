@@ -322,7 +322,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#225](https://github.com/casbin/gorm-adapter/issues/225) in [casbin/gorm-adapter](https://github.com/casbin/gorm-adapter)
+1. ❗ Opened issue [#208](https://github.com/ansrivas/fiberprometheus/issues/208) in [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus)
   <!--END_SECTION:activity-->
 </details>
 
