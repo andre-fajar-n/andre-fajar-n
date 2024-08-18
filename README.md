@@ -239,8 +239,6 @@ Here are some ideas to get you started:
 
 > 📦 9.9 MB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -310,7 +308,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2024 19:42:13 UTC
+ Last Updated on 18/08/2024 19:41:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
