@@ -286,6 +286,7 @@ VS Code                  5 hrs 46 mins       ███████████�
 🐱‍💻 Projects: 
 medusa                   5 hrs 45 mins       █████████████████████████   99.79 % 
 opencost                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+monorepo-helm            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
 WSL                      5 hrs 46 mins       █████████████████████████   100.00 % 
@@ -308,7 +309,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2024 19:42:24 UTC
+ Last Updated on 14/10/2024 19:43:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
