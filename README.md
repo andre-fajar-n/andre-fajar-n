@@ -274,19 +274,16 @@ Sunday                   1225 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       10 mins             ██████████████████░░░░░░░   70.91 % 
-Bash                     4 mins              ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-medusa                   10 mins             ██████████████████░░░░░░░   70.91 % 
-opencost                 4 mins              ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -306,7 +303,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2024 19:44:30 UTC
+ Last Updated on 31/10/2024 19:45:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
