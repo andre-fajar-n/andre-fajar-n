@@ -229,7 +229,7 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C969%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C969%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -237,7 +237,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 11.4 MB Used in GitHub's Storage 
+> 📦 11.5 MB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2025
  > 
@@ -274,20 +274,18 @@ Sunday                   1366 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     20 hrs 3 mins       ████████████████████████░   96.53 % 
-YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Ruby                     16 hrs 39 mins      ████████████████████████░   96.19 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ERB                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-runchise                 20 hrs 46 mins      █████████████████████████   100.00 % 
+runchise                 17 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -307,7 +305,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2025 19:43:22 UTC
+ Last Updated on 30/01/2025 19:43:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
