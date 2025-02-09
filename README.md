@@ -237,7 +237,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 11.5 MB Used in GitHub's Storage 
+> 📦 11.6 MB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2025
  > 
@@ -307,7 +307,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2025 19:50:23 UTC
+ Last Updated on 09/02/2025 19:42:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
