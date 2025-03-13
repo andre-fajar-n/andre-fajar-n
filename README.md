@@ -229,7 +229,7 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C087%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C095%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -237,7 +237,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 11.8 MB Used in GitHub's Storage 
+> 📦 11.9 MB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2025
  > 
@@ -274,19 +274,19 @@ Sunday                   1232 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     30 hrs 35 mins      ████████████████████████░   96.64 % 
-YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Ruby                     32 hrs 30 mins      ████████████████████████░   97.05 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-runchise                 31 hrs 38 mins      █████████████████████████   100.00 % 
+runchise                 33 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      31 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -306,7 +306,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2025 19:44:10 UTC
+ Last Updated on 13/03/2025 19:44:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
