@@ -229,7 +229,7 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C107%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C113%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -238,6 +238,8 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 11.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 13 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -272,19 +274,18 @@ Sunday                   1232 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     26 hrs 40 mins      ████████████████████████░   97.97 % 
-YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Ruby                     25 hrs 52 mins      ████████████████████████░   96.95 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-runchise                 27 hrs 13 mins      █████████████████████████   100.00 % 
+runchise                 26 hrs 41 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      27 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -304,7 +305,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2025 20:02:21 UTC
+ Last Updated on 19/03/2025 19:43:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
