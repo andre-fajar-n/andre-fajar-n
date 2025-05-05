@@ -231,13 +231,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C196%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 12.3 MB Used in GitHub's Storage 
+> 📦 12.4 MB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2025
  > 
@@ -274,8 +274,8 @@ Sunday                   1232 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     5 hrs 11 mins       █████████████████████████   98.50 % 
-Go                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Ruby                     5 hrs 11 mins       █████████████████████████   98.43 % 
+Go                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
@@ -283,8 +283,9 @@ YAML                     1 min               ░░░░░░░░░░░�
 VS Code                  5 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-runchise                 5 hrs 13 mins       █████████████████████████   99.20 % 
+runchise                 5 hrs 13 mins       █████████████████████████   99.12 % 
 medusa                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+go-efishery              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
 WSL                      5 hrs 16 mins       █████████████████████████   100.00 % 
@@ -307,7 +308,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2025 19:43:26 UTC
+ Last Updated on 05/05/2025 19:44:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
