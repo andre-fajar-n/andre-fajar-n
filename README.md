@@ -229,9 +229,9 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C244%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C249%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
@@ -243,9 +243,9 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
-> 🔑 20 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -274,21 +274,21 @@ Sunday                   1237 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     18 hrs 43 mins      █████████████████████░░░░   85.19 % 
-Go                       2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-HTML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Ruby                     18 hrs 43 mins      ███████████████████░░░░░░   76.47 % 
+Go                       4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+HTML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-runchise                 18 hrs 43 mins      █████████████████████░░░░   85.23 % 
-Joyo-Abadi               3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+runchise                 18 hrs 43 mins      ███████████████████░░░░░░   76.50 % 
+Joyo-Abadi               5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
 
 💻 Operating System: 
-Mac                      21 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -308,7 +308,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2025 19:43:42 UTC
+ Last Updated on 19/05/2025 19:43:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
