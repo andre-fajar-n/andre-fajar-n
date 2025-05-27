@@ -319,7 +319,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#208](https://github.com/ansrivas/fiberprometheus/issues/208) in [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus)
+1. 🎉 Merged PR [#3](https://github.com/andre-fajar-n/Joyo-Abadi/pull/3) in [andre-fajar-n/Joyo-Abadi](https://github.com/andre-fajar-n/Joyo-Abadi)
   <!--END_SECTION:activity-->
 </details>
 
