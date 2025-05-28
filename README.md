@@ -319,7 +319,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/andre-fajar-n/Joyo-Abadi/pull/3) in [andre-fajar-n/Joyo-Abadi](https://github.com/andre-fajar-n/Joyo-Abadi)
+1. 💪 Opened PR [#4](https://github.com/andre-fajar-n/Joyo-Abadi/pull/4) in [andre-fajar-n/Joyo-Abadi](https://github.com/andre-fajar-n/Joyo-Abadi)
   <!--END_SECTION:activity-->
 </details>
 
