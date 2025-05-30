@@ -1,4 +1,4 @@
-name: Update Wakatime Data
+name: Update Wakatime Statistics
 
 on:
   schedule:
