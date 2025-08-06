@@ -320,7 +320,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/andre-fajar-n/Joyo-Abadi/issues/5) in [andre-fajar-n/Joyo-Abadi](https://github.com/andre-fajar-n/Joyo-Abadi)
+1. 🎉 Merged PR [#1](https://github.com/andre-fajar-n/Test-Tripla/pull/1) in [andre-fajar-n/Test-Tripla](https://github.com/andre-fajar-n/Test-Tripla)
   <!--END_SECTION:activity-->
 </details>
 
