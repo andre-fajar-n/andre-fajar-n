@@ -229,7 +229,7 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C561%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C562%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -237,7 +237,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 13.4 MB Used in GitHub's Storage 
+> 📦 13.5 MB Used in GitHub's Storage 
  > 
 > 🏆 288 Contributions in the Year 2025
  > 
@@ -274,21 +274,21 @@ Sunday                   1281 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     11 hrs 17 mins      ███████████████████░░░░░░   74.58 % 
-TypeScript               3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Ruby                     11 hrs 17 mins      ███████████████████░░░░░░   74.39 % 
+TypeScript               3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-runchise                 11 hrs 47 mins      ███████████████████░░░░░░   77.89 % 
-cashari-flow-hub         3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+runchise                 11 hrs 47 mins      ███████████████████░░░░░░   77.68 % 
+cashari-flow-hub         3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 
 💻 Operating System: 
-Mac                      15 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -308,7 +308,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2025 19:41:57 UTC
+ Last Updated on 25/08/2025 19:42:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
