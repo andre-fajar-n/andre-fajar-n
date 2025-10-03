@@ -229,8 +229,6 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C699%20hrs%207%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
@@ -239,7 +237,7 @@ Here are some ideas to get you started:
 
 > 📦 13.8 MB Used in GitHub's Storage 
  > 
-> 🏆 340 Contributions in the Year 2025
+> 🏆 343 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -247,50 +245,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1719 commits        ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-🌆 Daytime                2726 commits        █████████░░░░░░░░░░░░░░░░   37.76 % 
-🌃 Evening                2437 commits        ████████░░░░░░░░░░░░░░░░░   33.75 % 
-🌙 Night                  338 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1144 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Tuesday                  1151 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Wednesday                607 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Thursday                 1302 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Friday                   901 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Saturday                 820 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Sunday                   1295 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Ruby                     17 hrs 58 mins      █████████████████░░░░░░░░   68.37 % 
-TypeScript               8 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🔥 Editors: 
-VS Code                  26 hrs 17 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-runchise                 18 hrs              █████████████████░░░░░░░░   68.48 % 
-cashari-flow-hub         8 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
-
-💻 Operating System: 
-Mac                      26 hrs 17 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -308,7 +262,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 19:41:12 UTC
+ Last Updated on 03/10/2025 19:56:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
