@@ -229,7 +229,7 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C956%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C958%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -274,20 +274,17 @@ Sunday                   1301 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     4 hrs 15 mins       ████████████████████████░   94.16 % 
-TypeScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Ruby                     5 hrs 56 mins       █████████████████████████   99.88 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       ████████████████████████░   94.27 % 
-Antigravity              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+VS Code                  5 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-runchise                 4 hrs 15 mins       ████████████████████████░   94.27 % 
-cashari-flow-hub         15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+runchise                 5 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -307,7 +304,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2026 19:46:53 UTC
+ Last Updated on 09/01/2026 19:45:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
