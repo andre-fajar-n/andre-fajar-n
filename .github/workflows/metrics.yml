@@ -8,8 +8,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: oddstr13/github-profile-metrics@odd-choices
         with:
+          use_prebuilt_image: no
           token: ${{ secrets.GH_TOKEN }}
 
           # config
