@@ -45,6 +45,7 @@ jobs:
     # Commit all changed files to the repository
     - name: Commit to the repo
       run: |
+        git config --global url."https://${{ secrets.GH_TOKEN }}@github.com/".insteadOf "https://github.com/"
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add .
