@@ -127,18 +127,6 @@ Here are some ideas to get you started:
 </table>
 
 <details>
-  <summary><strong>📊 Github Metrics</strong></summary>
-  Reference: <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>
-  </br>
-  
-  <div align="center">
-    <a href="https://github.com/andre-fajar-n/andre-fajar-n/blob/master/github-metrics.svg" align="center">
-      <img src="https://github.com/andre-fajar-n/andre-fajar-n/blob/master/github-metrics.svg" />
-    </a>
-  </div>
-</details>
-
-<details>
   <summary><strong>:chart_with_upwards_trend: Github Statistics</strong></summary>
   Reference: <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>
   </br>

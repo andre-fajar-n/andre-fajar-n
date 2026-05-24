@@ -2,8 +2,8 @@ name: Update Wakatime Statistics
 
 on:
   schedule:
-    # Runs at 19:30 UTC
-    - cron: '30 19 * * *'
+    # Runs at 18:30 UTC
+    - cron: '30 18 * * *'
   workflow_dispatch:
 
 jobs:
