@@ -217,7 +217,7 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C512%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C513%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -227,32 +227,32 @@ Here are some ideas to get you started:
 
 > 📦 13.9 MB Used in GitHub's Storage 
  > 
-> 🏆 353 Contributions in the Year 2026
+> 🏆 358 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 34 Public Repositories 
  > 
 > 🔑 26 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1921 commits        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-🌆 Daytime                2835 commits        █████████░░░░░░░░░░░░░░░░   36.71 % 
-🌃 Evening                2596 commits        ████████░░░░░░░░░░░░░░░░░   33.61 % 
+🌞 Morning                1922 commits        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+🌆 Daytime                2836 commits        █████████░░░░░░░░░░░░░░░░   36.70 % 
+🌃 Evening                2598 commits        ████████░░░░░░░░░░░░░░░░░   33.62 % 
 🌙 Night                  371 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1201 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Tuesday                  1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Monday                   1201 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Tuesday                  1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 Wednesday                703 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Thursday                 1402 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Thursday                 1402 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
 Friday                   951 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Saturday                 870 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Sunday                   1357 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Saturday                 870 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Sunday                   1361 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
 ```
 
 
@@ -262,26 +262,26 @@ Sunday                   1357 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     14 hrs 38 mins      ██████████████░░░░░░░░░░░   56.58 % 
-Python                   4 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Markdown                 3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-TypeScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-SQL                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Ruby                     14 hrs 38 mins      ██████████████░░░░░░░░░░░   54.39 % 
+Python                   5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Markdown                 3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+TypeScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+SQL                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 17 mins      ██████████████░░░░░░░░░░░   55.23 % 
-Claude Code              8 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.93 % 
-Antigravity IDE          3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+VS Code                  14 hrs 17 mins      █████████████░░░░░░░░░░░░   53.09 % 
+Claude Code              9 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   34.52 % 
+Antigravity IDE          3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 
 🐱‍💻 Projects: 
-runchise                 14 hrs 45 mins      ██████████████░░░░░░░░░░░   57.04 % 
-grand-pirates            7 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.39 % 
-cashari-flow-hub         3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+runchise                 14 hrs 45 mins      ██████████████░░░░░░░░░░░   54.84 % 
+grand-pirates            8 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
+cashari-flow-hub         3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 roo-868d4ea419cf         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      25 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -301,7 +301,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:52:42 UTC
+ Last Updated on 26/07/2026 19:52:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
