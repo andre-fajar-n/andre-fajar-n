@@ -128,20 +128,20 @@ Here are some ideas to get you started:
 
 <details>
   <summary><strong>:chart_with_upwards_trend: Github Statistics</strong></summary>
-  Reference: <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>
+  Reference: <a href="https://github.com/stats-organization/github-stats-extended">stats-organization/github-stats-extended</a>
   </br>
   </br>
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=andre-fajar-n&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+    <a href="https://github.com/stats-organization/github-stats-extended" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=andre-fajar-n&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fajar-n&langs_count=10&theme=onedark&layout=compact" />
+    <a href="https://github.com/stats-organization/github-stats-extended" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andre-fajar-n&langs_count=10&theme=onedark&layout=compact" />
     </a>
   </div>
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrefajarn&layout=compact" />
+    <a href="https://github.com/stats-organization/github-stats-extended" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=andrefajarn&layout=compact" />
     </a>
   </div>
   </br>
