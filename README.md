@@ -217,19 +217,19 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C515%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C519%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-199%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-201%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.54%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.55%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 13.9 MB Used in GitHub's Storage 
  > 
-> 🏆 409 Contributions in the Year 2026
+> 🏆 410 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -240,18 +240,18 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1934 commits        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-🌆 Daytime                2847 commits        █████████░░░░░░░░░░░░░░░░   36.70 % 
+🌞 Morning                1935 commits        ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+🌆 Daytime                2847 commits        █████████░░░░░░░░░░░░░░░░   36.69 % 
 🌃 Evening                2606 commits        ████████░░░░░░░░░░░░░░░░░   33.59 % 
 🌙 Night                  371 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1210 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Monday                   1210 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
 Tuesday                  1243 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
 Wednesday                709 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Thursday                 1402 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Thursday                 1403 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 Friday                   953 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 Saturday                 876 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 Sunday                   1365 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
@@ -264,49 +264,49 @@ Sunday                   1365 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     14 hrs              ██████████░░░░░░░░░░░░░░░   40.16 % 
-Markdown                 8 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-TypeScript               5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Python                   4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-SQL                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Ruby                     12 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   38.08 % 
+Markdown                 9 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+TypeScript               5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Python                   4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+SQL                      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 13 mins      ████████████░░░░░░░░░░░░░   46.48 % 
-VS Code                  14 hrs 47 mins      ███████████░░░░░░░░░░░░░░   42.39 % 
-Antigravity IDE          3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Claude Code              16 hrs 30 mins      ████████████░░░░░░░░░░░░░   48.77 % 
+VS Code                  13 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   39.56 % 
+Antigravity IDE          3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 
 🐱‍💻 Projects: 
-runchise                 14 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   41.66 % 
-cashari-flow-hub         11 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   33.90 % 
-grand-pirates            8 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+runchise                 13 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   38.82 % 
+cashari-flow-hub         12 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   36.00 % 
+grand-pirates            8 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Mac                      34 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 28 mins (61.55%)
+⏱ AI Coding Time: 22 hrs (64.98%)
 
-✍️ 11,759 lines written by AI, 1,211 lines written by hand (90.66% AI-written)
+✍️ 11,402 lines written by AI, 1,117 lines written by hand (91.08% AI-written)
 
-🔤 75,427,833 Input Tokens, 1,839,610 Output Tokens
+🔤 65,615,016 Input Tokens, 1,890,200 Output Tokens
 
-💵 $337.70 Estimated AI Cost This Week
+💵 $315.76 Estimated AI Cost This Week
 
 🧠 15 AI Sessions, 184 AI Prompts
 
-Sonnet                   7,720 lines         ████████████████░░░░░░░░░   65.09 % 
-Opus                     4,140 lines         █████████░░░░░░░░░░░░░░░░   34.91 % 
+Sonnet                   7,457 lines         ████████████████░░░░░░░░░   64.71 % 
+Opus                     4,067 lines         █████████░░░░░░░░░░░░░░░░   35.29 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.66% of written lines came from AI
-📚 Verbose Prompter — average 20,084 characters per prompt
+🤖 AI-Driven — 91.08% of written lines came from AI
+📚 Verbose Prompter — average 20,113 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 18.11% of changed lines were hand-edited
+🚀 High AI Trust — 17.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -326,7 +326,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 19:46:58 UTC
+ Last Updated on 13/08/2026 19:43:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
