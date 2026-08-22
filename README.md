@@ -217,11 +217,11 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C535%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C541%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-207%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-209%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.55%20million%20lines%20of%20code-blue?style=flat)
 
@@ -264,50 +264,50 @@ Sunday                   1367 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     7 hrs 33 mins       █████████████░░░░░░░░░░░░   50.42 % 
-Python                   3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Markdown                 2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-TypeScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Ruby                     9 hrs               █████████████░░░░░░░░░░░░   51.05 % 
+Python                   3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Markdown                 2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+JSON                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+TypeScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 10 mins       ██████████████░░░░░░░░░░░   54.49 % 
-Antigravity IDE          3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Codex CLI                2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Claude Code              1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+VS Code                  9 hrs 50 mins       ██████████████░░░░░░░░░░░   55.78 % 
+Antigravity IDE          3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Codex CLI                2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Claude Code              1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🐱‍💻 Projects: 
-runchise                 8 hrs               █████████████░░░░░░░░░░░░   53.36 % 
-grand-pirates            5 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.12 % 
-cashari-flow-hub         1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+runchise                 9 hrs 25 mins       █████████████░░░░░░░░░░░░   53.48 % 
+grand-pirates            5 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
+cashari-flow-hub         2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 
 💻 Operating System: 
-Mac                      14 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 56 mins (39.62%)
+⏱ AI Coding Time: 7 hrs 37 mins (43.28%)
 
-✍️ 4,974 lines written by AI, 1,028 lines written by hand (82.87% AI-written)
+✍️ 6,100 lines written by AI, 857 lines written by hand (87.68% AI-written)
 
-🔤 3,009,249 Input Tokens, 384,280 Output Tokens
+🔤 3,749,382 Input Tokens, 446,559 Output Tokens
 
-💵 $35.51 Estimated AI Cost This Week
+💵 $46.47 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 115 AI Prompts
+🧠 43 AI Sessions, 133 AI Prompts
 
-GPT                      2,974 lines         ███████████████░░░░░░░░░░   59.23 % 
-Opus                     1,832 lines         █████████░░░░░░░░░░░░░░░░   36.49 % 
-Sonnet                   215 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+GPT                      4,100 lines         █████████████████░░░░░░░░   66.70 % 
+Opus                     1,832 lines         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+Sonnet                   215 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.87% of written lines came from AI
-📚 Verbose Prompter — average 1,893 characters per prompt
+🤖 AI-Driven — 87.68% of written lines came from AI
+📚 Verbose Prompter — average 1,700 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 18.98% of changed lines were hand-edited
+🚀 High AI Trust — 14.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -327,7 +327,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:22:57 UTC
+ Last Updated on 22/08/2026 19:07:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
