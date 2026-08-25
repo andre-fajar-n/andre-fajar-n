@@ -217,9 +217,9 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C544%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C549%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-209%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -264,46 +264,46 @@ Sunday                   1367 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     12 hrs 7 mins       ████████████████░░░░░░░░░   64.94 % 
-Python                   2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Markdown                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-TypeScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Ruby                     15 hrs 53 mins      █████████████████░░░░░░░░   66.12 % 
+Python                   2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Markdown                 2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+JSON                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 57 mins      █████████████████░░░░░░░░   69.41 % 
-Codex CLI                2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Antigravity IDE          2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+VS Code                  17 hrs 21 mins      ██████████████████░░░░░░░   72.24 % 
+Codex CLI                3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Antigravity IDE          3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
 
 🐱‍💻 Projects: 
-runchise                 12 hrs 33 mins      █████████████████░░░░░░░░   67.23 % 
-grand-pirates            3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-cashari-flow-hub         2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+runchise                 16 hrs 37 mins      █████████████████░░░░░░░░   69.19 % 
+grand-pirates            4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+cashari-flow-hub         2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 
 💻 Operating System: 
-Mac                      18 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 48 mins (31.09%)
+⏱ AI Coding Time: 7 hrs 16 mins (30.25%)
 
-✍️ 4,065 lines written by AI, 779 lines written by hand (83.92% AI-written)
+✍️ 5,615 lines written by AI, 1,112 lines written by hand (83.47% AI-written)
 
-🔤 2,568,017 Input Tokens, 238,279 Output Tokens
+🔤 3,106,340 Input Tokens, 296,008 Output Tokens
 
-💵 $32.92 Estimated AI Cost This Week
+💵 $36.35 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 126 AI Prompts
+🧠 48 AI Sessions, 141 AI Prompts
 
-GPT                      4,100 lines         █████████████████████████   100.00 % 
+GPT                      5,650 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.92% of written lines came from AI
-📝 Concise Prompter — average 191 characters per prompt
+🤖 AI-Driven — 83.47% of written lines came from AI
+📝 Concise Prompter — average 226 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 22.9% of changed lines were hand-edited
+🚀 High AI Trust — 22.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -323,7 +323,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:18:30 UTC
+ Last Updated on 25/08/2026 19:23:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
