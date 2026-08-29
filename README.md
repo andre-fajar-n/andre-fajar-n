@@ -217,9 +217,9 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C560%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C562%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -264,47 +264,47 @@ Sunday                   1367 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     16 hrs 41 mins      █████████████████████░░░░   84.33 % 
-Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Ruby                     15 hrs 9 mins       ███████████████████░░░░░░   76.76 % 
+JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+TypeScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 29 mins      ██████████████████████░░░   88.34 % 
-Antigravity IDE          1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Codex CLI                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+VS Code                  15 hrs 56 mins      ████████████████████░░░░░   80.79 % 
+Antigravity IDE          1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Codex CLI                1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 
 🐱‍💻 Projects: 
-runchise                 17 hrs 10 mins      ██████████████████████░░░   86.82 % 
-cashari-flow-hub         1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-grand-pirates            1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+runchise                 15 hrs 38 mins      ████████████████████░░░░░   79.26 % 
+cashari-flow-hub         2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+grand-pirates            1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Mac                      19 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (9.44%)
+⏱ AI Coding Time: 3 hrs 17 mins (16.64%)
 
-✍️ 2,147 lines written by AI, 10,005 lines written by hand (17.67% AI-written)
+✍️ 4,490 lines written by AI, 9,918 lines written by hand (31.16% AI-written)
 
-🔤 931,923 Input Tokens, 100,029 Output Tokens
+🔤 2,038,750 Input Tokens, 223,451 Output Tokens
 
-💵 $11.80 Estimated AI Cost This Week
+💵 $25.12 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 29 AI Prompts
+🧠 28 AI Sessions, 78 AI Prompts
 
-GPT                      2,147 lines         █████████████████████████   100.00 % 
+GPT                      4,493 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.67% of written lines came from AI
-📝 Concise Prompter — average 354 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 90.2% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 31.16% of written lines came from AI
+📝 Concise Prompter — average 215 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 81.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -324,7 +324,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 02:08:21 UTC
+ Last Updated on 29/08/2026 21:13:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
