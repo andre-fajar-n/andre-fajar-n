@@ -264,32 +264,31 @@ Sunday                   1372 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     10 hrs 10 mins      █████████████░░░░░░░░░░░░   50.79 % 
-TypeScript               3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-JSON                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Ruby                     5 hrs               █████████░░░░░░░░░░░░░░░░   34.33 % 
+TypeScript               3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+JSON                     2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Markdown                 2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 32 mins      █████████████░░░░░░░░░░░░   52.63 % 
-Antigravity IDE          5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-Codex CLI                4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+VS Code                  5 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.10 % 
+Antigravity IDE          5 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.58 % 
+Codex CLI                4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.32 % 
 
 🐱‍💻 Projects: 
-runchise                 10 hrs 20 mins      █████████████░░░░░░░░░░░░   51.66 % 
-cashari-flow-hub         9 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.42 % 
-other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+cashari-flow-hub         9 hrs 29 mins       ████████████████░░░░░░░░░   64.97 % 
+runchise                 5 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.03 % 
 
 💻 Operating System: 
-Mac                      20 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      14 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 6 mins (40.54%)
+⏱ AI Coding Time: 8 hrs 6 mins (55.54%)
 
-✍️ 6,918 lines written by AI, 9,579 lines written by hand (41.93% AI-written)
+✍️ 6,918 lines written by AI, 9,408 lines written by hand (42.37% AI-written)
 
 🔤 4,929,717 Input Tokens, 546,542 Output Tokens
 
@@ -300,10 +299,10 @@ Mac                      20 hrs 1 min        ███████████�
 GPT                      7,015 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.93% of written lines came from AI
+⚖️ Balanced with AI — 42.37% of written lines came from AI
 📚 Verbose Prompter — average 2,907 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 73.06% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 72.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -323,7 +322,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:22:12 UTC
+ Last Updated on 02/09/2026 21:21:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
