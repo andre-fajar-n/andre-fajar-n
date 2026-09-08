@@ -264,43 +264,22 @@ Sunday                   1372 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               31 mins             ████████████░░░░░░░░░░░░░   47.80 % 
-Markdown                 25 mins             ██████████░░░░░░░░░░░░░░░   38.13 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity IDE          45 mins             █████████████████░░░░░░░░   68.88 % 
-Codex CLI                20 mins             ████████░░░░░░░░░░░░░░░░░   31.12 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cashari-flow-hub         1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 4 mins (97.8%)
-
-✍️ 754 lines written by AI, 1 lines written by hand (99.87% AI-written)
-
-🔤 646,118 Input Tokens, 68,958 Output Tokens
-
-💵 $8.27 Estimated AI Cost This Week
-
-🧠 20 AI Sessions, 21 AI Prompts
-
-GPT                      754 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📝 Concise Prompter — average 215 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.4% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -320,7 +299,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:51:45 UTC
+ Last Updated on 08/09/2026 21:29:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
