@@ -217,9 +217,9 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C569%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C571%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-219%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
 
@@ -264,22 +264,41 @@ Sunday                   1372 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     40 mins             ███████████████░░░░░░░░░░   58.22 % 
+Python                   16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex CLI                47 mins             █████████████████░░░░░░░░   67.56 % 
+Antigravity IDE          22 mins             ████████░░░░░░░░░░░░░░░░░   32.44 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+grand-pirates            1 hr 10 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 9 mins (99.34%)
+
+✍️ 1,365 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 512,707 Input Tokens, 79,055 Output Tokens
+
+💵 $8.00 Estimated AI Cost This Week
+
+🧠 18 AI Sessions, 26 AI Prompts
+
+GPT                      1,365 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 89 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -299,7 +318,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:14:35 UTC
+ Last Updated on 11/09/2026 21:19:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
