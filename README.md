@@ -217,9 +217,9 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C577%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C580%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-225%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-227%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -229,7 +229,7 @@ Here are some ideas to get you started:
 
 > 📦 13.9 MB Used in GitHub's Storage 
  > 
-> 🏆 443 Contributions in the Year 2026
+> 🏆 445 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -240,21 +240,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1951 commits        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-🌆 Daytime                2856 commits        █████████░░░░░░░░░░░░░░░░   36.65 % 
-🌃 Evening                2614 commits        ████████░░░░░░░░░░░░░░░░░   33.55 % 
+🌞 Morning                1951 commits        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+🌆 Daytime                2858 commits        █████████░░░░░░░░░░░░░░░░   36.67 % 
+🌃 Evening                2614 commits        ████████░░░░░░░░░░░░░░░░░   33.54 % 
 🌙 Night                  371 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   1214 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Tuesday                  1248 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Wednesday                713 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Tuesday                  1248 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Wednesday                715 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 Thursday                 1406 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
 Friday                   956 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 Saturday                 880 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Sunday                   1375 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Sunday                   1375 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
 ```
 
 
@@ -264,48 +264,48 @@ Sunday                   1375 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   41.68 % 
-Ruby                     1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-JSON                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Other                    59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+TypeScript               4 hrs 49 mins       ███████████░░░░░░░░░░░░░░   42.19 % 
+Ruby                     2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+JSON                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 🔥 Editors: 
-Codex CLI                3 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.84 % 
-Antigravity IDE          3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.98 % 
-VS Code                  1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Agent                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Codex CLI                4 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.97 % 
+Antigravity IDE          3 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.46 % 
+VS Code                  2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Agent                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 
 🐱‍💻 Projects: 
-cashari-flow-hub         4 hrs 58 mins       ██████████████░░░░░░░░░░░   57.04 % 
-grand-pirates            1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-runchise                 1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+cashari-flow-hub         6 hrs 31 mins       ██████████████░░░░░░░░░░░   56.96 % 
+runchise                 2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+grand-pirates            1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
 
 💻 Operating System: 
-Mac                      8 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 54 mins (79.22%)
+⏱ AI Coding Time: 8 hrs 53 mins (77.69%)
 
-✍️ 2,938 lines written by AI, 76 lines written by hand (97.48% AI-written)
+✍️ 3,567 lines written by AI, 82 lines written by hand (97.75% AI-written)
 
-🔤 2,933,181 Input Tokens, 291,208 Output Tokens
+🔤 3,920,554 Input Tokens, 385,843 Output Tokens
 
-💵 $69.84 Estimated AI Cost This Week
+💵 $86.64 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 132 AI Prompts
+🧠 78 AI Sessions, 157 AI Prompts
 
-GPT                      3,125 lines         █████████████████████████   100.00 % 
+GPT                      3,826 lines         █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.48% of written lines came from AI
-📝 Concise Prompter — average 264 characters per prompt
+🤖 AI-Driven — 97.75% of written lines came from AI
+📄 Detailed Prompter — average 1,041 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 4.02% of changed lines were hand-edited
+🚀 High AI Trust — 3.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -325,7 +325,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:48:00 UTC
+ Last Updated on 16/09/2026 21:44:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
