@@ -217,9 +217,9 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C643%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C644%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -229,11 +229,11 @@ Here are some ideas to get you started:
 
 > 📦 13.9 MB Used in GitHub's Storage 
  > 
-> 🏆 464 Contributions in the Year 2026
+> 🏆 472 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 26 Private Repositories 
  > 
@@ -264,44 +264,46 @@ Sunday                   1379 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     11 hrs 17 mins      ████████████████░░░░░░░░░   65.89 % 
-Markdown                 3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Ruby                     11 hrs 17 mins      ████████████████░░░░░░░░░   63.10 % 
+Markdown                 3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Go                       21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 26 mins      ███████████████░░░░░░░░░░   60.91 % 
-Agent                    6 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   36.30 % 
-Antigravity IDE          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+VS Code                  10 hrs 49 mins      ███████████████░░░░░░░░░░   60.43 % 
+Agent                    6 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.95 % 
+Antigravity IDE          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Codex CLI                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-runchise                 15 hrs 26 mins      ███████████████████████░░   90.04 % 
-cashari-flow-hub         1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-grand-pirates            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+runchise                 15 hrs 26 mins      ██████████████████████░░░   86.24 % 
+cashari-flow-hub         1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+TypeScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+grand-pirates            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Mac                      17 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      17 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 5 mins (47.15%)
+⏱ AI Coding Time: 8 hrs 29 mins (47.46%)
 
-✍️ 0 lines written by AI, 245 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 262 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 4 AI Prompts
+🧠 35 AI Sessions, 6 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,022 characters per prompt
+📄 Detailed Prompter — average 737 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -323,7 +325,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:56:47 UTC
+ Last Updated on 10/10/2026 22:04:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
