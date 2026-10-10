@@ -334,7 +334,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21328](https://github.com/PipedreamHQ/pipedream/issues/21328#issuecomment-4942414091) in [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+1. 🗣 Commented on [#64669](https://github.com/microsoft/TypeScript/issues/64669#issuecomment-6097977422) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
   <!--END_SECTION:activity-->
 </details>
 
