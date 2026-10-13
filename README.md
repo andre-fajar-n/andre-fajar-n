@@ -337,7 +337,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64746](https://github.com/microsoft/TypeScript/pull/64746) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+1. 🎉 Merged PR [#64770](https://github.com/microsoft/TypeScript/pull/64770) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
   <!--END_SECTION:activity-->
 </details>
 
