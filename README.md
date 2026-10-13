@@ -336,7 +336,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64668](https://github.com/microsoft/TypeScript/issues/64668#issuecomment-6106820085) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+1. 💪 Opened PR [#64746](https://github.com/microsoft/TypeScript/pull/64746) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
   <!--END_SECTION:activity-->
 </details>
 
