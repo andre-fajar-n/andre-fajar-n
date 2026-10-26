@@ -217,11 +217,11 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C686%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C687%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-278%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-279%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20million%20lines%20of%20code-blue?style=flat)
 
@@ -264,45 +264,44 @@ Sunday                   1383 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     13 hrs 43 mins      ████████████████░░░░░░░░░   64.73 % 
-TypeScript               3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Go                       1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-SQL                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Ruby                     13 hrs 23 mins      ███████████████████░░░░░░   76.31 % 
+Markdown                 1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Go                       1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 18 mins      █████████████████░░░░░░░░   67.43 % 
-Antigravity IDE          3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Cursor                   2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Agent                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Cursor Agent             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+VS Code                  13 hrs 59 mins      ████████████████████░░░░░   79.78 % 
+Cursor                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Antigravity IDE          1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Cursor Agent             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-runchise                 15 hrs 31 mins      ██████████████████░░░░░░░   73.17 % 
-cashari-flow-hub         4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-TypeScript               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-runchise-re762           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+runchise                 15 hrs 22 mins      ██████████████████████░░░   87.59 % 
+TypeScript               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+cashari-flow-hub         45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+runchise-re762           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      21 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 56 mins (32.75%)
+⏱ AI Coding Time: 4 hrs 24 mins (25.11%)
 
-✍️ 0 lines written by AI, 1,171 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,135 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 5 AI Prompts
+🧠 12 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 20,240 characters per prompt
+📚 Verbose Prompter — average 2,575 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -324,7 +323,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:18:27 UTC
+ Last Updated on 26/10/2026 23:01:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
