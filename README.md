@@ -337,7 +337,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
   </br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64770](https://github.com/microsoft/TypeScript/pull/64770) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+1. ❌ Closed PR [#7](https://github.com/kobars/alta-belajar-git1/pull/7) in [kobars/alta-belajar-git1](https://github.com/kobars/alta-belajar-git1)
   <!--END_SECTION:activity-->
 </details>
 
