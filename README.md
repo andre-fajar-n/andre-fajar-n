@@ -217,11 +217,11 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C713%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C716%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-289%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-290%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.59%20million%20lines%20of%20code-blue?style=flat)
 
@@ -229,7 +229,7 @@ Here are some ideas to get you started:
 
 > 📦 13.9 MB Used in GitHub's Storage 
  > 
-> 🏆 499 Contributions in the Year 2026
+> 🏆 500 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -240,18 +240,18 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1964 commits        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+🌞 Morning                1965 commits        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
 🌆 Daytime                2875 commits        █████████░░░░░░░░░░░░░░░░   36.53 % 
 🌃 Evening                2624 commits        ████████░░░░░░░░░░░░░░░░░   33.34 % 
-🌙 Night                  408 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+🌙 Night                  407 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   1221 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
 Tuesday                  1255 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Wednesday                756 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Thursday                 1408 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Wednesday                755 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Thursday                 1409 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
 Friday                   961 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 Saturday                 887 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 Sunday                   1383 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
@@ -264,45 +264,45 @@ Sunday                   1383 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     8 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.87 % 
-Python                   3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Markdown                 2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-TypeScript               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Ruby                     9 hrs 35 mins       ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Markdown                 3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+SQL                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.86 % 
-Antigravity IDE          6 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.84 % 
-Cursor                   3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Cursor Agent             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+VS Code                  9 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.43 % 
+Antigravity IDE          6 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.01 % 
+Cursor                   3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Cursor Agent             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🐱‍💻 Projects: 
-runchise                 9 hrs 41 mins       ██████████████░░░░░░░░░░░   54.07 % 
-grand-pirates            5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-cashari-flow-hub         2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-TypeScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+runchise                 11 hrs 3 mins       ██████████████░░░░░░░░░░░   57.59 % 
+grand-pirates            5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+cashari-flow-hub         2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      17 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 1 min (39.16%)
+⏱ AI Coding Time: 7 hrs 36 mins (39.64%)
 
-✍️ 0 lines written by AI, 1,654 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,483 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 3 AI Prompts
+🧠 37 AI Sessions, 4 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 21,298 characters per prompt
+📚 Verbose Prompter — average 13,323 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -324,7 +324,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2026 00:20:22 UTC
+ Last Updated on 05/11/2026 23:59:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
