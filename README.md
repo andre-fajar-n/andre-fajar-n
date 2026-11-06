@@ -217,9 +217,9 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C716%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C718%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-290%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-291%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
@@ -229,7 +229,7 @@ Here are some ideas to get you started:
 
 > 📦 13.9 MB Used in GitHub's Storage 
  > 
-> 🏆 500 Contributions in the Year 2026
+> 🏆 502 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -240,9 +240,9 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1965 commits        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-🌆 Daytime                2875 commits        █████████░░░░░░░░░░░░░░░░   36.53 % 
-🌃 Evening                2624 commits        ████████░░░░░░░░░░░░░░░░░   33.34 % 
+🌞 Morning                1965 commits        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+🌆 Daytime                2876 commits        █████████░░░░░░░░░░░░░░░░   36.53 % 
+🌃 Evening                2625 commits        ████████░░░░░░░░░░░░░░░░░   33.34 % 
 🌙 Night                  407 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -252,7 +252,7 @@ Monday                   1221 commits        ████░░░░░░░�
 Tuesday                  1255 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 Wednesday                755 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 Thursday                 1409 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Friday                   961 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Friday                   963 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
 Saturday                 887 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 Sunday                   1383 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
 ```
@@ -264,45 +264,44 @@ Sunday                   1383 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     9 hrs 35 mins       ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Markdown                 3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-SQL                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Ruby                     7 hrs 17 mins       ████████████░░░░░░░░░░░░░   46.30 % 
+Markdown                 3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+JSON                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Python                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+TypeScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.43 % 
-Antigravity IDE          6 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.01 % 
-Cursor                   3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Cursor Agent             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+VS Code                  7 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.30 % 
+Antigravity IDE          5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
+Cursor                   2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Cursor Agent             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🐱‍💻 Projects: 
-runchise                 11 hrs 3 mins       ██████████████░░░░░░░░░░░   57.59 % 
-grand-pirates            5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-cashari-flow-hub         2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+runchise                 8 hrs 42 mins       ██████████████░░░░░░░░░░░   55.29 % 
+cashari-flow-hub         5 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.84 % 
+grand-pirates            1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      19 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 36 mins (39.64%)
+⏱ AI Coding Time: 7 hrs 30 mins (47.72%)
 
-✍️ 0 lines written by AI, 1,483 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,031 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 4 AI Prompts
+🧠 41 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 13,323 characters per prompt
+📚 Verbose Prompter — average 1,866 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -324,7 +323,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2026 23:59:35 UTC
+ Last Updated on 06/11/2026 23:37:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
