@@ -217,7 +217,7 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C738%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C739%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-297%20hrs%2031%20mins-blue?style=flat)
 
@@ -264,32 +264,32 @@ Sunday                   1383 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     8 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.48 % 
-CSV                      4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-Markdown                 3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-TypeScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Python                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Ruby                     8 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   40.23 % 
+CSV                      5 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+Markdown                 3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+TypeScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Python                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.48 % 
-Antigravity IDE          7 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   39.14 % 
-Cursor                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+VS Code                  9 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.04 % 
+Antigravity IDE          8 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
+Cursor                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 
 🐱‍💻 Projects: 
-runchise                 11 hrs 17 mins      ██████████████░░░░░░░░░░░   57.12 % 
-cashari-flow-hub         8 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.15 % 
-grand-pirates            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+runchise                 11 hrs 17 mins      ██████████████░░░░░░░░░░░   55.39 % 
+cashari-flow-hub         8 hrs 45 mins       ███████████░░░░░░░░░░░░░░   42.93 % 
+grand-pirates            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Mac                      19 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 40 mins (28.72%)
+⏱ AI Coding Time: 5 hrs 40 mins (27.85%)
 
-✍️ 0 lines written by AI, 701 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 661 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -321,7 +321,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2026 22:51:44 UTC
+ Last Updated on 15/11/2026 23:16:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
