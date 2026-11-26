@@ -217,11 +217,11 @@ Here are some ideas to get you started:
   </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C773%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C778%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.59%20million%20lines%20of%20code-blue?style=flat)
 
@@ -264,42 +264,42 @@ Sunday                   1383 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     11 hrs 42 mins      ███████████░░░░░░░░░░░░░░   44.63 % 
-CSV                      7 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-Markdown                 4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Ruby                     11 hrs 32 mins      ███████████░░░░░░░░░░░░░░   44.42 % 
+CSV                      7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Markdown                 4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 46 mins      █████████████░░░░░░░░░░░░   52.53 % 
-Antigravity IDE          9 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.09 % 
-Cursor                   2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+VS Code                  13 hrs 36 mins      █████████████░░░░░░░░░░░░   52.42 % 
+Antigravity IDE          8 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.48 % 
+Cursor                   3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 Cursor Agent             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-runchise                 16 hrs 22 mins      ████████████████░░░░░░░░░   62.42 % 
-cashari-flow-hub         9 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   37.58 % 
+runchise                 16 hrs 27 mins      ████████████████░░░░░░░░░   63.40 % 
+cashari-flow-hub         9 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.60 % 
 
 💻 Operating System: 
-Mac                      26 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 23 mins (28.19%)
+⏱ AI Coding Time: 7 hrs 43 mins (29.72%)
 
-✍️ 0 lines written by AI, 540 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 594 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 4 AI Prompts
+🧠 32 AI Sessions, 5 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 25,156 characters per prompt
+📚 Verbose Prompter — average 29,808 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -321,7 +321,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andre-fajar-n/andre-fajar-n/master/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 02:55:27 UTC
+ Last Updated on 26/11/2026 02:06:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
